@@ -21,4 +21,4 @@ The object of the competition is to provide SAE student members with a challengi
 
 All vehicles are powered by a ten-horsepower Intek Model 19 engine donated by Briggs & Stratton Corporation. For over forty years, the generosity of Briggs & Stratton has enabled SAE to provide each team with a dependable engine free of charge. Use of the same engine by all the teams creates a more challenging engineering design test.”
 
-Learn more about SAE at their [website](http://students.sae.org/cds/bajasae/about/).
+Learn more about SAE at their [website](http://students.sae.org/cds/bajasae/about/){:target="_blank"}.

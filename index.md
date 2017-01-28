@@ -93,7 +93,7 @@ header: no
   <h3>Resources</h3>
   <ul class="inline-list">
   <li><a href="{{site.baseurl}}/team/forms/">Forms</a></li>
-  <li><a href="http://students.sae.org/cds/bajasae/rules/">2017 Rules</a></li>
+  <li><a href="http://students.sae.org/cds/bajasae/rules/" target="_blank">2017 Rules</a></li>
   <li><a href="{{site.baseurl}}/team/resources/">More</a></li>
 </ul>
 

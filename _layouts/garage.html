@@ -30,13 +30,13 @@ title: "asdf"
     {%if page.photos %}
       <h3>Photos</h3>
       {% for gallery in page.photos %}
-        <a href="{{ gallery.galleryLink }}">{{gallery.galleryTitle}}</a><br>
+        <a href="{{ gallery.galleryLink }}" target="_blank">{{gallery.galleryTitle}}</a><br>
       {% endfor %}
     {% endif %}
     {% if page.videos %}
       <h3>Alumni Videos</h3>
             {% for video in page.videos %}
-        <a href="{{ video.url }}">{{video.name}}</a><br>
+        <a href="{{ video.url }}" target="_blank">{{video.name}}</a><br>
       {% endfor %}
     {% endif %}
     {% if page.awards %}

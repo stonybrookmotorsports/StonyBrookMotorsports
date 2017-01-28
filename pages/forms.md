@@ -12,12 +12,12 @@ categoryLink: "/team/"
 To join the team, you must:
 
 1.  Complete three online safety courses and properly submit the four documents as explained below.
-2.  Join our [email list](http://groups.google.com/forum/#!forum/stony-brook-motorsports) and [Slack team](https://sbum.slack.com/x-15349418596-56352870371/signup).
+2.  Join both our email list and Slack team.  Links are below.
 
 ### Safety
 In order to join the team and work in the shop, everyone must pass three online safety courses: EOS 029 - Machine Shop Safety, ELS 002 - Chemical Safety, and ENV 001 - Hazardous Waste.
 
-1. Log into [Blackboard](http://blackboard.stonybrook.edu) with your Stony Brook NetID
+1. Log into [Blackboard](http://blackboard.stonybrook.edu){:target="_blank"} with your Stony Brook NetID
 2. Under the "Courses" tab, type "EOS 029" in the Course Search box and click Go
 3. The Machine Shop Safety course will show up in the search. Click the down arrow (Options Menu) under the Course ID and select "Enroll"
 4. Repeat for “ELS 002” and “ENV 001”
@@ -29,10 +29,10 @@ In order to join the team and work in the shop, everyone must pass three online 
 10. Submit physical copies of the three passing grades and the signed page of the Machine Shop Safety Rules & Agreement to the Motorsports office
 
 ### Important Links
-- Join our [Slack team](https://sbum.slack.com/x-15349418596-56352870371/signup) to communicate with the team.
-- Join our [email list](http://groups.google.com/forum/#!forum/stony-brook-motorsports) to receive important updates.  Click "subscribe to this group" and enter your **Stony Brook email address**.  
+- Join our [Slack team](https://sbum.slack.com/x-15349418596-56352870371/signup){:target="_blank"} to communicate with the team.
+- Join our [email list](http://groups.google.com/forum/#!forum/stony-brook-motorsports){:target="_blank"} to receive important updates.  Click "subscribe to this group" and enter your **Stony Brook email address**.  
 - Use our [suggestion box](https://sites.google.com/site/stonybrookmotorsports/forms/suggestions) to anonymously voice your suggestions, concerns, and issues.
-- Read the [2017 rules](http://students.sae.org/cds/bajasae/rules/).  Everyone who wishes to participate in the design and fabrication of the car should read them thoroughly.
+- Read the [2017 rules](http://students.sae.org/cds/bajasae/rules/){:target="_blank"}.  Everyone who wishes to participate in the design and fabrication of the car should read them thoroughly.
 
 ### Other Information
 - We encourage every team member to reach out to friends, family, companies, and anybody who'd be interested in sponsoring the team. We have prepared a sponsorship packet and they are ready to be distributed. If you'd like some packets please [email us]({{site.baseurl}}/contact/)!
