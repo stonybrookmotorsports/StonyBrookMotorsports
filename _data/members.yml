@@ -1,0 +1,68 @@
+- name: Matt Kesich
+  imageName: Matt
+  position: President
+  subsystem: Suspension/Steering
+  major: Mechanical Engineering
+  year: Senior
+- name: Neil Dusling
+  imageName: Neil
+  position: Vice President
+  subsystem: Chassis
+  major: Mechanical Engineering
+  year: Senior
+- name: Aravinda Bhatt
+  imageName: Aravinda
+  position: Secretary
+  subsystem: Powertrain
+  major: Mechanical Engineering
+  year: Senior
+- name: Jenry Nieto Martinez
+  imageName: Jenry
+  position: Treasurer
+  subsystem: Suspension/Steering, Composites
+  major: Mechanical Engineering
+  year: Sophomore
+- name: Spencer Locks
+  imageName: Spencer
+  position: Design Leader
+  subsystem: Powertrain
+  major: Mechanical Engineering
+  year: Senior
+- name: Ian Greenberg
+  imageName: Ian
+  position: Fabrication Leader
+  subsystem: Control Systems
+  major: Mechanical Engineering
+  year: Senior
+- name: Lee Flader
+  imageName: Lee
+  position: Testing Manager
+  subsystem: Electrical
+  major: Electrical Engineering
+  year: It's complicated
+- name: Daniel Su
+  imageName: Daniel
+  position: Machine Shop Manager
+  subsystem: Suspension/Steering
+  major: Mechanical Engineering
+  year: Junior
+- name: Paul Li
+  imageName: Paul
+  position: Public Relations Specialist
+  subsystem: Suspension/Steering
+  major: Mechanical Engineering
+  year: Sophomore
+- name: Ryan Reilly
+  imageName: Ryan
+  subsystem: Powertrain
+  major: Mechanical Engineering
+  year: Sophomore
+- name: John Park
+  imageName: John
+  subsystem: Suspension/Steering
+  major: Mechanical Engineering
+  year: Sophomore
+- name: Zach Grimm
+  imageName: Grimm
+  position: Graduate Advisor
+  major: Mechanical Engineering

@@ -1,0 +1,70 @@
+---
+layout: page-fullwidth
+show_meta: false
+title: "Quotes"
+permalink: "/quotes/"
+header: no
+---
+
+Gramps:  
+"I can't figure out these computers man."  
+"Chrome can install a... uh... whatchacallit?"  
+"Dammit, I can't use this technology!"  
+"Yo man... they help your digestive system."  
+"Oh yea, I forgot to complain about that today. Thanks for reminding me."  
+"Matt is so happy that we're not dingleberries man"  
+"A lot of learning going on here."  
+"Long hair or short hair, I don't care... she cute AF."  
+"Neil, can I look at your shaft?"  
+
+Fearless Leader:  
+"Hashtag facepalm"  
+"Technically you used technically the wrong way"  
+"Can we make that a quote?"  
+"People are the WORST..."  
+
+Joisey:  
+"What kind of idiot puts an axial load on a key?"  
+"Ok so, where I actually is am at?"  
+"It's like we're the same person, woah!"  
+"On a scale from 0 to person, you're above average? How does that work?"  
+
+Duck:  
+"it's better than ur cousins giving ur rap name Lil D"  
+"Like quacks on"  
+
+Auri:  
+"You derived an already derived formula. Congratulations, you can do math"  
+"If you're a fanatic Buddhist, good for you!"  
+"It's like saying you can measure suspension travel in zeros and ones."  
+
+Zach Grimm:  
+"Aw that f*ck*ng g*d d*mn ant... who the f*ck you think you is? I'M THE G*D D*MN VICE PRESIDENT OF MOTORSPORTS!" *stomp stomp stomp*  
+
+Muffins:  
+"Can I be rocks and cardboard?"  
+"You know rocks will be around for a long time."  
+"I know that old story"  
+"Whatever boats your float"  
+"It's like we're the same person, woah!"  
+
+Lee:  
+"I don't say anything quotable"  
+
+Muffins: "Hey, why do you have that light on your backpack?"  
+Duck: "My mom gave it to me, she's afraid I'll get attacked at night or something."  
+
+Muffins: "What happened to the cake that Mikey made?"  
+Fearless Leader: "Bhatt ate it all, leave it to the brown guy to eat all the brown food. That's how he gets his color."  
+
+Fearless Leader: "Mikey, do you have any candy?"  
+Bearhunter: "I have grated cheese."  
+
+Paul: You're trying too hard Neil  
+Neil: No wait Paul, come back!  
+
+Ian: If you were a fruit you'd be a cute-cumber...  
+Ian: That's a vegetable...  
+
+John:  
+"Cats are just defective puppies."  

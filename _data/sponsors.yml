@@ -1,0 +1,63 @@
+- name: CEAS
+  logoURL: /images/sponsors/ceas.png
+  websiteURL: http://www.ceas.sunysb.edu/
+- name: USG
+  logoURL: /images/sponsors/usg.png
+  websiteURL: http://stonybrookusg.org/
+- name: Department of Mechanical Engineering
+  websiteURL: http://me.eng.sunysb.edu
+- name: Jaab
+  logoURL: /images/sponsors/jaab.jpg
+  websiteURL: http://www.jaabinc.com/
+- name: Maloya
+  logoURL: /images/sponsors/maloya.jpg
+  websiteURL: http://www.maloyalaser.com/
+- name: Burton
+  logoURL: /images/sponsors/burton.png
+  websiteURL: http://www.heatreat.com/
+- name: Flagpoles
+  logoURL: /images/sponsors/flagpoles.gif
+  websiteURL: http://www.flagpolesinc.com/
+- name: Superior
+  logoURL: /images/sponsors/superior.png
+  websiteURL: http://www.superiorwasher.com/
+- name: Timken
+  logoURL: /images/sponsors/timken.png
+  websiteURL: http://www.timken.com/
+- name: Performance
+  logoURL: /images/sponsors/performance.png
+  websiteURL: http://performanceautosolutions.com/
+- name: Base BKNY
+  logoURL: /images/sponsors/base.png
+  websiteURL: http://basebrooklyn.net/online/
+- name: Polaris
+  logoURL: /images/sponsors/polaris.png
+  websiteURL: http://www.polaris.com/en-us/home.aspx
+- name: Briggs
+  logoURL: /images/sponsors/briggs.png
+  websiteURL: http://www.briggsandstratton.com/us/en
+- name: Fox
+  logoURL: /images/sponsors/fox.png
+  websiteURL: http://www.ridefox.com/
+- name: VR3 Engineering
+  logoURL: /images/sponsors/vr3.jpg
+  websiteURL: http://vr3.ca/
+- name: 4XPro
+  logoURL: /images/sponsors/4xpro.png
+  websiteURL: http://www.4xpro.com/
+- name: Blackstone Laboratories
+  logoURL: /images/sponsors/blackstone.png
+  websiteURL: http://www.blackstone-labs.com/
+- name: Parfuse
+  logoURL: /images/sponsors/parfuse.png
+  websiteURL: http://parfuse.com/
+- name: Aurora
+  logoURL: /images/sponsors/aurora.png
+  websiteURL: http://www.aurorabearing.com/index.html
+- name: Mastercam
+  logoURL: /images/sponsors/mastercam.png
+  websiteURL: http://www.mastercam.com/en-us/
+- name: SolidWorks
+  logoURL: /images/sponsors/solidworks.jpg
+  websiteURL: http://solidworks.com
+- name: D & I Finishing

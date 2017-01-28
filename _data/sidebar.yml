@@ -1,0 +1,69 @@
+- category: About
+  url: "/about/"
+  links:
+  - name: About SAE
+    url: "/about/sae/"
+  - name: Subsystems
+    url: "/about/subsystems"
+  - name: Members
+    url: "/about/members/"
+  - name: Advisors
+    url: "/about/advisors/"
+
+
+
+- category: Garage
+  url: "/garage/"
+  links:
+  - name: "2017: Car 15/125"
+    url: "/garage/2017/"
+  - name: "2016: Car 22"
+    url: "/garage/2016/"
+  - name: "2015: Car 18"
+    url: "/garage/2015/"
+  - name: "2014: Car 68"
+    url: "/garage/2014/"
+  - name: "2013: Car 45"
+    url: "/garage/2013/"
+  - name: "2012: Car 10/96"
+    url: "/garage/2012/"
+  - name: "2011: Car 34"
+    url: "/garage/2011/"
+  - name: "2010: Car 64"
+    url: "/garage/2010/"
+  - name: "2009: Car 2"
+    url: "/garage/2009/"
+  - name: "2008: Car 3/19"
+    url: "/garage/2008/"
+  - name: "2007: Car 27/50"
+    url: "/garage/2007/"
+  - name: "2006: Car 130"
+    url: "/garage/2006/"
+  - name: "2005: Car 99"
+    url: "/garage/2005/"
+  - name: "2004: Car 100"
+    url: "/garage/2004/"
+  - name: "2003: Car 20"
+    url: "/garage/2003/"
+  - name: "2002: Car 52"
+    url: "/garage/2002/"
+  - name: "2001: Car 86"
+    url: "/garage/2001/"
+  - name: "2000: Car 51"
+    url: "/garage/2000/"
+  - name: "1999: Car 47"
+    url: "/garage/1999/"
+  - name: "1998: Car 45"
+    url: "/garage/1998/"
+  - name: "1997: Car 47"
+    url: "/garage/1997/"
+  - name: "1988: Car 45"
+    url: "/garage/1988/"
+
+- category: Team
+  url: "/team/"
+  links:
+  - name: Forms
+    url: "/team/forms/"
+  - name: Resources
+    url: "/team/resources/"

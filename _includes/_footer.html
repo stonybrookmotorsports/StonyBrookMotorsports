@@ -1,0 +1,38 @@
+
+    <div id="up-to-top" class="row">
+
+      <div class="small-12 columns" style="text-align: right;">
+        <a class="iconfont" href="#top-of-page">&#xf108;</a>
+      </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+
+
+    <footer id="footer-content" class="bg-grau">
+      <div id="footer">
+<div class="row">
+  <div class="small-12 columns">
+    {% for sponsor in site.data.sponsorsFooter %}
+      <a href="{{sponsor.websiteURL}}"><img border="0" alt="{{sponsor.name}}" src="{{ site.baseurl }}{{sponsor.logoURL}}"  style="float: left; height: 40px;  padding-left: 20px;"></a>
+      {% endfor %}
+  </div>
+</div>
+
+      </div><!-- /#footer -->
+
+
+      <div id="subfooter">
+        <nav class="row">
+          <section id="subfooter-left" class="small-12 medium-8 columns credits">
+            {{ site.credits }}
+          </section>
+
+          <section id="subfooter-right" class="small-12 medium-4 columns">
+            <ul class="inline-list social-icons">
+            {% for social_item in site.data.socialmedia %}
+              <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
+            {% endfor %}
+            </ul>
+          </section>
+        </nav>
+      </div><!-- /#subfooter -->
+    </footer>

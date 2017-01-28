@@ -1,0 +1,388 @@
+- year: '2017'
+  car: '15/125'
+  largePhotoLink: https://lh3.googleusercontent.com/SlTqQUnFS6Iem7qMGe2I6Elwp0K6hR7LzJsKIfHVSJLHgpOf63rEPvV9D4hinm-iUmGe9sPQHY8jte6gUqJUn15nW1j1CgOXVQ8my_h4gwm4vqoiZt0Glb3HjpWQlz8JeiOyJSI=w1925-h1283-no
+  photos:
+    - galleryTitle: Fabrication
+      galleryLink: https://goo.gl/photos/9u6NvxjEFnQvXJ52A
+    - galleryTitle: Involvement Fairs
+      galleryLink: https://goo.gl/photos/fPt1q4kKr4DWNmcT8
+    - galleryTitle: New Member Competition
+      galleryLink: https://goo.gl/photos/rt53ZKT4xQ1S3G6u7
+    - galleryTitle: Wolfstock
+      galleryLink: https://goo.gl/photos/WK8VT2Poy47MhMQUA
+    - galleryTitle: Three Village Holiday Parade
+      galleryLink: https://goo.gl/photos/1YiuEeAqyzwJ9gok9
+- year: '2016'
+  car: '15/125'
+  result: '46th Overall in Rochester'
+  largePhotoLink: https://lh3.googleusercontent.com/SlTqQUnFS6Iem7qMGe2I6Elwp0K6hR7LzJsKIfHVSJLHgpOf63rEPvV9D4hinm-iUmGe9sPQHY8jte6gUqJUn15nW1j1CgOXVQ8my_h4gwm4vqoiZt0Glb3HjpWQlz8JeiOyJSI=w1925-h1283-no
+  photos:
+    - galleryTitle: Fabrication
+      galleryLink: https://goo.gl/photos/9nwyDoUggJ9prFJn7
+    - galleryTitle: Baja SAE Rochester
+      galleryLink: https://goo.gl/photos/dL3fe4DLk9fpzdHu5
+  specifications:
+    WheelBase: 58"
+    Track: 52"/50"
+    Length: 82"
+    Width: 60"
+    Height: 61"
+    Weight: 368 lbs
+    Wheels: 10" x 7" Front & Rear
+    FrontTires: 22" x 7" Maxxis RAZR2
+    RearTires: 22" x 7" Maxxis RAZR2
+    Suspension: 4 Wheel Independent Suspension
+    Powertrain: CVT, Transaxle
+- year: '2015'
+  car: '18'
+  result: '70th Overall in Maryland'
+  largePhotoLink: https://lh3.googleusercontent.com/SlTqQUnFS6Iem7qMGe2I6Elwp0K6hR7LzJsKIfHVSJLHgpOf63rEPvV9D4hinm-iUmGe9sPQHY8jte6gUqJUn15nW1j1CgOXVQ8my_h4gwm4vqoiZt0Glb3HjpWQlz8JeiOyJSI=w1925-h1283-no
+  photos:
+    - galleryTitle: Baja SAE Maryland
+      galleryLink: https://goo.gl/photos/4w1e3ApXzz3kep83A
+  specifications:
+    WheelBase: 59"
+    Track: 52"/50"
+    Length: 82"
+    Width: 59"
+    Height: 60"
+    Weight: 367 lbs
+    Wheels: 10" x 7" Front & Rear
+    FrontTires: 22" x 7" Maxxis RAZR2
+    RearTires: 23" x 7 Kenda Claw
+    Suspension: 4 Wheel Independent Suspension
+    Powertrain: CVT, Transaxle
+- year: '2014'
+  car: '68'
+  result: '16th Overall in Illinois'
+  largePhotoLink: https://lh3.googleusercontent.com/SlTqQUnFS6Iem7qMGe2I6Elwp0K6hR7LzJsKIfHVSJLHgpOf63rEPvV9D4hinm-iUmGe9sPQHY8jte6gUqJUn15nW1j1CgOXVQ8my_h4gwm4vqoiZt0Glb3HjpWQlz8JeiOyJSI=w1925-h1283-no
+  photos:
+    - galleryTitle: Fabrication
+      galleryLink: https://goo.gl/photos/iE5i9xyUQMsjS1oc9
+    - galleryTitle: Baja SAE Illinois
+      galleryLink: https://goo.gl/photos/eiu31AxLUtpobnwz7
+  specifications:
+    WheelBase : 59.5"
+    Track: 52"
+    Length: 82"
+    Width: 59"
+    Height: 59"
+    Weight: 374 lbs
+    Wheels: 10" x 7" Front & Rear
+    FrontTires: 22" x 7" Maxxis RAZR2
+    RearTires: 23" x 7 Kenda Claw
+    Suspension: 4 Wheel Independent Suspension
+    Powertrain: CVT, Transaxle
+- year: '2013'
+  car: '45'
+  result: '36th Overall in Rochester'
+  largePhotoLink: https://lh3.googleusercontent.com/SlTqQUnFS6Iem7qMGe2I6Elwp0K6hR7LzJsKIfHVSJLHgpOf63rEPvV9D4hinm-iUmGe9sPQHY8jte6gUqJUn15nW1j1CgOXVQ8my_h4gwm4vqoiZt0Glb3HjpWQlz8JeiOyJSI=w1925-h1283-no
+  photos:
+    - galleryTitle: Fabrication
+      galleryLink: https://goo.gl/photos/MqW7GTRZTbLX75SJ7
+    - galleryTitle: Baja SAE Rochester
+      galleryLink: https://goo.gl/photos/Uetd379EF7bjdRf99
+  specifications:
+    WheelBase : 59.5"
+    Track: 52.5"
+    Length: 82"
+    Width: 59"
+    Height: 59"
+    Weight: 378 lbs
+    Wheels: 10" x 7" Front & Rear
+    FrontTires: 22" x 7" Dunlop KT171
+    RearTires: 23" x 7 Kenda Bearclaw
+    Suspension: 4 Wheel Independent Suspension
+    Powertrain: CVT, Transaxle
+- year: '2012'
+  car: '10/96'
+  result: '33rd Overall in Oregon & 21st Overall in Wisconsin'
+  largePhotoLink: https://lh3.googleusercontent.com/SlTqQUnFS6Iem7qMGe2I6Elwp0K6hR7LzJsKIfHVSJLHgpOf63rEPvV9D4hinm-iUmGe9sPQHY8jte6gUqJUn15nW1j1CgOXVQ8my_h4gwm4vqoiZt0Glb3HjpWQlz8JeiOyJSI=w1925-h1283-no
+  photos:
+    - galleryTitle: Fabrication
+      galleryLink: https://goo.gl/photos/Kdqp8tQpHJud8KLH7
+    - galleryTitle: Baja SAE Wisconsin
+      galleryLink: https://goo.gl/photos/H64cMohZmPUYffXy7
+    - galleryTitle: Baja SAE Oregon
+      galleryLink: https://goo.gl/photos/sHVvPBwzbcdYxbEA8
+  specifications:
+    WheelBase: 60"
+    Track: 62"
+    Length: 82"
+    Width: 54"
+    Height: 46"
+    Weight: 396 lbs
+    Wheels: 10" x 7" Front & Rear
+    FrontTires: 22" x 7" Dunlop KT171
+    RearTires: 23" x 7 Maxxis Razr 2
+    Suspension: 4 Wheel Independent Suspension
+    Powertrain: CVT, Transaxle
+- year: '2011'
+  car: '34'
+  result: '10th Overall in Illinois'
+  largePhotoLink: https://lh3.googleusercontent.com/SlTqQUnFS6Iem7qMGe2I6Elwp0K6hR7LzJsKIfHVSJLHgpOf63rEPvV9D4hinm-iUmGe9sPQHY8jte6gUqJUn15nW1j1CgOXVQ8my_h4gwm4vqoiZt0Glb3HjpWQlz8JeiOyJSI=w1925-h1283-no
+  photos:
+    - galleryTitle: Fabrication
+      galleryLink: https://goo.gl/photos/f18Drw9eKZFpGFwc6
+    - galleryTitle: Baja SAE Illinois
+      galleryLink: https://goo.gl/photos/uWE282WXahjcXCTEA
+  videos:
+    - name: 2011 Baja SAE Illinois
+      url: https://www.youtube.com/watch?v=MdFbQzdB9i4
+  specifications:
+    WheelBase: 63"
+    Track: 54"
+    Length: 82"
+    Width: 54"
+    Height: 46"
+    Weight: 425 lbs
+    Wheels: 10" x 7" Front & Rear
+    Tires: 23" x 7" Front & Rear
+    Suspension: 4 Wheel Independent Suspension
+    Powertrain: CVT, Transaxle
+- year: '2010'
+  car: '64'
+  result: '32nd Overall in Rochester'
+  largePhotoLink: https://lh3.googleusercontent.com/SlTqQUnFS6Iem7qMGe2I6Elwp0K6hR7LzJsKIfHVSJLHgpOf63rEPvV9D4hinm-iUmGe9sPQHY8jte6gUqJUn15nW1j1CgOXVQ8my_h4gwm4vqoiZt0Glb3HjpWQlz8JeiOyJSI=w1925-h1283-no
+  photos:
+    - galleryTitle: Baja SAE Rochester
+      galleryLink: https://goo.gl/photos/PjfUJ2P8ouRPNgd69
+  specifications:
+    WheelBase: 62"
+    Track: 50.5"
+    Length: 85"
+    Width: 59"
+    Height: 59"
+    Weight: 430 lbs
+    Wheels: 10" x 7" Front & Rear
+    Tires: 23" x 8" Front & Rear
+    Suspension: 4 Wheel Independent Suspension
+    Powertrain: CVT, Transaxle
+- year: '2009'
+  car: '2'
+  result: '5th Overall in Wisconsin'
+  largePhotoLink: https://lh3.googleusercontent.com/SlTqQUnFS6Iem7qMGe2I6Elwp0K6hR7LzJsKIfHVSJLHgpOf63rEPvV9D4hinm-iUmGe9sPQHY8jte6gUqJUn15nW1j1CgOXVQ8my_h4gwm4vqoiZt0Glb3HjpWQlz8JeiOyJSI=w1925-h1283-no
+  photos:
+    - galleryTitle: 'Fabrication: Part 1'
+      galleryLink: https://goo.gl/photos/iqeBvHxBSRqLVsz69
+    - galleryTitle: 'Fabrication: Part 2'
+      galleryLink: https://goo.gl/photos/Dh2C7GVA6AD966mP7
+    - galleryTitle: Baja SAE Wisconsin
+      galleryLink: https://goo.gl/photos/jXP7zc84fcBmwwJW8
+  videos:
+    - name: Stony Brook Motorsports Promotional
+      url: https://www.youtube.com/watch?v=pINoTgaoplY
+  specifications:
+    WheelBase: 66"
+    Track: 54"
+    Length: 82"
+    Width: 54"
+    Height: 46"
+    Weight: 450 lbs
+    Wheels: 10" x 7" Front & Rear
+    Tires: 23" x 8" Front & Rear
+    Suspension: 4 Wheel Independent Suspension
+    Powertrain: CVT, Gear Box, Differential
+- year: '2008'
+  car: '3/19'
+  result: '2nd Overall in Montreal & 8th Overall in Illinois'
+  photos:
+    - galleryTitle: 'Fabrication: Part 1'
+      galleryLink: https://goo.gl/photos/JtVw8ncuVcjnLs7a7
+    - galleryTitle: 'Fabrication: Part 2'
+      galleryLink: https://goo.gl/photos/AnGZdrPDLAQEXfa6A
+    - galleryTitle: 'Fabrication: Part 3'
+      galleryLink: https://goo.gl/photos/DwJs2zNCTWH8ojtj9
+    - galleryTitle: Body Panel Manufacturing
+      galleryLink: https://goo.gl/photos/TTA69NDRewT34SvG7
+    - galleryTitle: Testing Videos
+      galleryLink: https://goo.gl/photos/czSWCCanJ6Ce1Qj4A
+    - galleryTitle: Summer Testing
+      galleryLink: https://goo.gl/photos/bsFaadhPkeoqCtKn9
+    - galleryTitle: Baja SAE Montreal Awards Dinner
+      galleryLink: https://goo.gl/photos/uZ82At8GhD7sqmc57
+    - galleryTitle: 'Baja SAE Montreal: Part 1'
+      galleryLink: https://goo.gl/photos/eR4F1AufKJwhoh9E6
+    - galleryTitle: 'Baja SAE Montreal: Suspension & Traction'
+      galleryLink: https://goo.gl/photos/ECxrmoNs24Qmxz3h6
+    - galleryTitle: 'Baja SAE Montreal: Endurance Race'
+      galleryLink: https://goo.gl/photos/bjZzYUoJ1fidiL9t7
+    - galleryTitle: Between Competitions
+      galleryLink: https://goo.gl/photos/2RaW5GMgN3TEscHV7
+    - galleryTitle: 'Baja SAE Illinois: Part 1'
+      galleryLink: https://goo.gl/photos/kbQXKaaqj5aaK2ZV8
+    - galleryTitle: 'Baja SAE Illinois: Dynamic Events'
+      galleryLink: https://goo.gl/photos/BBNqfJbbDLoK4rLq9
+    - galleryTitle: Sponsor Driving Day (Fall)
+      galleryLink: https://goo.gl/photos/yaDNfjmVPKc7kp2G8
+    - galleryTitle: Sponsor Driving Day (Spring)
+      galleryLink: https://goo.gl/photos/KyDyqwiMxcqUJ8aE6
+  videos:
+    - name: 2008 Baja SAE Illinois
+      url: https://www.youtube.com/watch?v=QirasQ3HZ-Y
+    - name: 2008 Baja SAE Illinois Rock Crawl
+      url: https://www.youtube.com/watch?v=6BysgkMsHGs
+
+
+  specifications:
+    WheelBase: 65.8"
+    Track: 55.1"
+    Length: 87.7"
+    Width: 62.7"
+    Height: 57.8"
+    Weight: 503 lbs
+    Wheels: 10" x 7" Front & Rear
+    Tires: 22" x 8" Front & Rear
+    Suspension: 4 Wheel Independent Suspension
+    Powertrain: CVT, Gear Box, Differential
+  awards:
+    - name: Montreal Autodesk Inventor Design Communication Award (2nd Place)
+    - name: Illinois Autodesk Inventor Design Communication Award (1st Place)
+    - name: Illinois Polaris Design Award (2nd Place)
+    - name: Illinois FIRST Robotic Ergonomics Award
+
+- year: '2007'
+  car: '27/50'
+  result: '3rd Overall in South Dakota & 20th Overall in Rochester'
+  photos:
+    - galleryTitle: Fabrication
+      galleryLink: https://goo.gl/photos/uhwezdamVx6thC429
+    - galleryTitle: Frame Jig
+      galleryLink: https://goo.gl/photos/wuYAWCHwf5Rp4gkZ6
+    - galleryTitle: Spring Testing
+      galleryLink: https://goo.gl/photos/hYY53UzwBLrzdrt28
+    - galleryTitle: Baja SAE South Dakota
+      galleryLink: https://goo.gl/photos/mA6MRBL2BXe9mEXk6
+    - galleryTitle: Industrial Advisory Board
+      galleryLink: https://goo.gl/photos/3Udkjwd8nmUReSE96
+    - galleryTitle: Flagpoles Car Show
+      galleryLink: https://goo.gl/photos/WkNWjH5zNEXUv9Ub8
+    - galleryTitle: Car 27/50 Renderings
+      galleryLink: https://goo.gl/photos/qGQuW4FaueU1JjhB8
+  videos:
+    - name: 2007 Baja SAE South Dakota
+      url: https://www.youtube.com/watch?v=tuksneU8sLM
+    - name: 2007 Baja SAE Rochester
+      url: https://www.youtube.com/watch?v=iLfFBeIFQXQ
+    - name: 2007 Testing
+      url: https://www.youtube.com/watch?v=xfxI0I5HcEI
+    - name: 2007 Testing Part 2
+      url: https://www.youtube.com/watch?v=PB_b5ZlFJ5Q
+  specifications:
+    WheelBase: 65.8"
+    Track: 55.1"
+    Length: 87.7"
+    Width: 62.7"
+    Height: 57.8"
+    Weight: 503 lbs
+    Wheels: 10" x 7" Front & Rear
+    Tires: 22" x 8" Front & Rear
+    Suspension: 4 Wheel Independent Suspension
+    Powertrain: CVT, Gear Box, Differential
+  awards:
+    - name: Autodesk Inventor Design Communication Award (1st Place) Rochester World Challenge.
+    - name: Polaris Overall Design Award (2nd Place)
+    - name: Briggs & Stratton Overall Performance Award (3rd Place)
+
+- year: '2006'
+  car: '130'
+  result: '44th overall in Wisconsin'
+  photos:
+    - galleryTitle: Car 130 Compilation
+      galleryLink: https://goo.gl/photos/hT9yi39npBUpe7qG8
+  videos:
+    - name: 2006 Baja SAE Wisconsin
+      url: https://www.youtube.com/watch?v=SqvaxdJMJwo
+  specifications:
+    WheelBase: 64"
+    Track: 58"
+    Length: 98"
+    Width: 64"
+    Height: 63"
+    Weight: 563 lbs
+    Wheels: 10" x 7" Front & Rear
+    Tires: 22" x 8" Front & Rear
+    Suspension: 4 Wheel Independent Suspension
+    Powertrain: CVT, Gear Box
+  Awards:
+    - name: Midwest Mud Bogg (3rd Place)
+- year: '2005'
+  car: '99'
+  result: '61st Overall in Ohio'
+  photos:
+    - galleryTitle: Baja SAE Ohio
+      galleryLink: https://goo.gl/photos/cBkezsAY9UGx3HW2A
+  specifications:
+    WheelBase: 65.8"
+    Track: 55.1"
+    Length: 87.7"
+    Width: 62.7"
+    Height: 57.8"
+    Weight: N/A
+    FrontWheels: 10" x 7"
+    RearWheels: 10" x 8"
+    Tires: 22" x 8"
+    RearTires: 22" x 11"
+    Suspension: Independent Front, Swing Arm Rear
+    Powertrain: CVT, Fixed Gear Down
+
+- year: '2004'
+  car: '100'
+  result: '47th Overall in Midwest'
+  photos:
+    - galleryTitle: Baja SAE Midwest
+      galleryLink: https://goo.gl/photos/mMVx3LAvxPBA3Twv9
+
+- year: '2003'
+  car: '20'
+  result: '88th Overall in Midwest'
+  photos:
+    - galleryTitle: Baja SAE Midwest
+      galleryLink: https://goo.gl/photos/uC6BL7gDu917Apfd8
+
+- year: '2002'
+  car: '52'
+  result: '62nd Overall in Midwest'
+  photos:
+    - galleryTitle: Baja SAE Midwest
+      galleryLink: https://goo.gl/photos/SNeb2BFWxMeS6daz6
+
+- year: '2001'
+  car: '86'
+  result: '28th Overall in Midwest'
+  photos:
+    - galleryTitle: Baja SAE Midwest
+      galleryLink: https://goo.gl/photos/nu9vdUDB8uvUHaz37
+
+
+- year: '2000'
+  car: '51'
+  result: '23rd Overall in Midwest'
+  photos:
+    - galleryTitle: Baja SAE Midwest
+      galleryLink: https://goo.gl/photos/DyJFreZFReyYJsFS7
+
+- year: '1999'
+  car: '40'
+  result: '51st Overall in Ohio'
+  photos:
+    - galleryTitle: Baja SAE Ohio
+      galleryLink: https://goo.gl/photos/rng852EZecGdyR3c9
+
+- year: '1998'
+  car: '45'
+  result: '54th Overall in Midwest'
+
+- year: '1997'
+  car: '47'
+  result: '23rd Overall in Midwest'
+  photos:
+    - galleryTitle: Baja SAE Midwest
+      galleryLink: https://goo.gl/photos/zeEx1v5mU6ETEytA7
+
+- year: '1988'
+  car: '45'
+  result: 'Standing Unknown'
+  photos:
+    - galleryTitle: '1988 Competition Photos'
+      galleryLink: https://goo.gl/photos/TFczhRE4p4Tr1WHbA

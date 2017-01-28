@@ -1,0 +1,75 @@
+---
+layout: page
+format: post
+header: no
+sidebar: left
+sidebarCategory: Garage
+categoryLink: "/garage/"
+title: "asdf"
+---
+
+<h3>Car {{page.car}}</h3>
+<i>{{page.result}}</i><br><br>
+{% for static_file in site.static_files %}
+    {% if static_file.path contains page.year and static_file.extname == '.jpg' %}
+        <img src="{{ site.baseurl }}/images/garage/{{ page.year}}.jpg">
+    {% endif %}
+{% endfor %}
+
+
+
+
+<!--
+{% if page.largePhotoLink %}
+<img src="{{ page.largePhotoLink }}">
+{% endif %}
+-->
+
+<div class="row">
+  <div class="small-12 large-6 columns">
+    {%if page.photos %}
+      <h3>Photos</h3>
+      {% for gallery in page.photos %}
+        <a href="{{ gallery.galleryLink }}">{{gallery.galleryTitle}}</a><br>
+      {% endfor %}
+    {% endif %}
+    {% if page.videos %}
+      <h3>Alumni Videos</h3>
+            {% for video in page.videos %}
+        <a href="{{ video.url }}">{{video.name}}</a><br>
+      {% endfor %}
+    {% endif %}
+    {% if page.awards %}
+      <h3>Awards</h3>
+      <ul>
+      {% for award in page.awards %}
+        <li>{{ award.name }}</li>
+      {% endfor %}
+      </ul>
+    {% endif %}
+  </div>
+  <div class="small-12 large-6 columns">
+    {% if page.specifications%}
+    <h3>Specifications</h3>
+    <span style="color:#A4A4A4;">Wheel Base:</span> {{page.specifications.WheelBase}}<br>
+    <span style="color:#A4A4A4;">Track:</span> {{page.specifications.Track}}<br>
+    <span style="color:#A4A4A4;">Length:</span> {{page.specifications.Length}}<br>
+    <span style="color:#A4A4A4;">Width:</span> {{page.specifications.Width}}<br>
+    <span style="color:#A4A4A4;">Height:</span> {{page.specifications.Height}}<br>
+    <span style="color:#A4A4A4;">Weight:</span> {{page.specifications.Weight}}<br>
+    <span style="color:#A4A4A4;">Wheels:</span> {{page.specifications.Wheels}}<br>
+    {% if page.specifications.FrontTires %}
+      <span style="color:#A4A4A4;">Front Tires:</span> {{page.specifications.FrontTires}}<br>
+    {% endif %}
+    {% if page.specifications.FrontTires %}
+      <span style="color:#A4A4A4;">Rear Tires:</span> {{page.specifications.RearTires}}<br>
+    {% endif %}
+    {% if page.specifications.Tires %}
+      <span style="color:#A4A4A4;">Tires:</span> {{page.specifications.Tires}}<br>
+    {% endif %}
+    <span style="color:#A4A4A4;">Suspension:</span> {{page.specifications.Suspension}}<br>
+    <span style="color:#A4A4A4;">Powertrain:</span> {{page.specifications.Powertrain}}<br>
+    {% endif %}
+  </div>
+</div>
+{{ sidebarCategory }}

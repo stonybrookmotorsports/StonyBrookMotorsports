@@ -1,0 +1,19 @@
+<aside>
+	<div class="panel radius">
+		<h3><a href="{{ site.baseurl }}{{page.categoryLink}}">{{page.sidebarCategory}}</a></h3>
+		<hr>
+		<p>
+			<ul class="side-nav">
+					{% for item in site.data.sidebar %}
+						{% if item.category == page.sidebarCategory %}
+							{% for link in item.links %}
+								<li><a href="{{ site.baseurl }}{{link.url}}">{{link.name}}</a></li>
+							{% endfor %}
+						{% endif %}
+					{% endfor %}
+			</ul>
+		</p>
+	</div>
+
+
+</aside>

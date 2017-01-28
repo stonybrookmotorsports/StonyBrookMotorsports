@@ -1,0 +1,26 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: About
+  url: "/about/"
+  side: right
+
+
+- title: Garage
+  url: "/garage/"
+  side: right
+
+
+- title: "Team"
+  url: "/team/"
+  side: right
+
+- title: "Sponsors"
+  url: "/sponsors/"
+  side: right
+
+
+- title: Contact
+  url: "/contact/"
+  side: right
