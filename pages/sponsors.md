@@ -5,7 +5,7 @@ title: "Sponsors"
 permalink: "/sponsors/"
 header: no
 ---
-Stony Brook Motorsports could not be nearly as successful of a team without the generous help and support of our sponsors, friends, and family. Below is a list of all of our current sponsors. Check out our [2016-2017 sponsorship packet](https://drive.google.com/open?id=0B_n_QnoqnnU7NjZ5c2tZUWZZcDg) for more details.  Please [contact]({{site.baseurl}}/contact/) us if you're interested in becoming a sponsor or have any questions.
+Stony Brook Motorsports could not be nearly as successful of a team without the generous help and support of our sponsors, friends, and family. Below is a list of all of our current sponsors. Check out our [2016-2017 sponsorship packet](https://drive.google.com/open?id=0B_n_QnoqnnU7NjZ5c2tZUWZZcDg){:target="_blank"} for more details.  Please [contact]({{site.baseurl}}/contact/) us if you're interested in becoming a sponsor or have any questions.
 
 <br>
 
@@ -21,9 +21,9 @@ Stony Brook Motorsports could not be nearly as successful of a team without the 
 <ul class="medium-block-grid-4 small-block-grid-2">
 {% for sponsor in site.data.sponsors %}
   {% if sponsor.logoURL %}
-  <li><a href="{{sponsor.websiteURL}}"><img border="0" alt="{{sponsor.name}}" src="{{ site.baseurl }}{{sponsor.logoURL}}" style="float: left;"></a></li>
+  <li><a href="{{sponsor.websiteURL}}" target="_blank"><img border="0" alt="{{sponsor.name}}" src="{{ site.baseurl }}{{sponsor.logoURL}}" style="float: left;"></a></li>
   {% elsif sponsor.websiteURL %}
-  <li><a href="{{sponsor.websiteURL}}">{{sponsor.name}}</a></li>
+  <li><a href="{{sponsor.websiteURL}}" target="_blank">{{sponsor.name}}</a></li>
   {% else %}
   <li>{{sponsor.name}}</li>
   {% endif %}
