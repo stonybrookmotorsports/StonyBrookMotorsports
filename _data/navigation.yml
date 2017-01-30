@@ -25,9 +25,9 @@
   side: right
   dropdown:
     - title: "Forms"
-      url: "/about/sae/"
+      url: "/team/forms/"
     - title: "Resources"
-      url: "/about/subsystems/"
+      url: "/team/resources/"
 
 - title: "Sponsors"
   url: "/sponsors/"
