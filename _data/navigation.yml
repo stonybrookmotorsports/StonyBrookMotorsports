@@ -5,7 +5,15 @@
 - title: About
   url: "/about/"
   side: right
-
+  dropdown:
+    - title: "About SAE"
+      url: "/about/sae/"
+    - title: "Subsystems"
+      url: "/about/subsystems/"
+    - title: "Members"
+      url: "/about/members/"
+    - title: "Advisors"
+      url: "/about/advisors/"
 
 - title: Garage
   url: "/garage/"
@@ -15,6 +23,11 @@
 - title: "Team"
   url: "/team/"
   side: right
+  dropdown:
+    - title: "Forms"
+      url: "/about/sae/"
+    - title: "Resources"
+      url: "/about/subsystems/"
 
 - title: "Sponsors"
   url: "/sponsors/"
