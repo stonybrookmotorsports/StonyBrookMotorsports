@@ -11,9 +11,11 @@
       <div id="footer">
 <div class="row">
   <div class="small-12 columns">
+    <div style="margin: auto; width: 95%;">
     {% for sponsor in site.data.sponsorsFooter %}
-      <a href="{{sponsor.websiteURL}}" target="_blank"><img border="0" alt="{{sponsor.name}}" src="{{ site.baseurl }}{{sponsor.logoURL}}"  style="float: left; height: 40px;  padding-left: 20px;"></a>
+      <a href="{{sponsor.websiteURL}}" target="_blank"><img border="0" alt="{{sponsor.name}}" src="{{ site.baseurl }}{{sponsor.logoURL}}"  style="float: left; height: 37px;  padding-left: 15px;"></a>
       {% endfor %}
+    </div>
   </div>
 </div>
 
