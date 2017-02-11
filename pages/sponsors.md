@@ -20,8 +20,10 @@ Stony Brook Motorsports could not be nearly as successful of a team without the 
 
 <ul class="medium-block-grid-4 small-block-grid-2">
 {% for sponsor in site.data.sponsors %}
-  {% if sponsor.logoURL %}
+  {% if sponsor.logoURL and sponsor.websiteURL %}
   <li><a href="{{sponsor.websiteURL}}" target="_blank"><img border="0" alt="{{sponsor.name}}" src="{{ site.baseurl }}{{sponsor.logoURL}}" style="float: left;"></a></li>
+  {% elsif sponsor.logoURL %}
+  <li><img src="{{ site.baseurl }}{{sponsor.logoURL}}"></li>
   {% elsif sponsor.websiteURL %}
   <li><a href="{{sponsor.websiteURL}}" target="_blank">{{sponsor.name}}</a></li>
   {% else %}
