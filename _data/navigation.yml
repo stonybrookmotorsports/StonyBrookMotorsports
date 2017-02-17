@@ -3,9 +3,10 @@
   side: left
 
 - title: About
-  url: "/about/"
   side: right
   dropdown:
+    - title: "About Us"
+      url: "/about/"
     - title: "About SAE"
       url: "/about/sae/"
     - title: "Subsystems"
