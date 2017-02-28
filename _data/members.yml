@@ -37,7 +37,7 @@
 - name: Lee Flader
   imageName: Lee
   position: Testing Manager
-  subsystem: Electrical
+  subsystem: Electronics
   major: Electrical Engineering
   year: It's complicated
 - name: Daniel Su
@@ -62,6 +62,38 @@
   subsystem: Suspension/Steering
   major: Mechanical Engineering
   year: Sophomore
+- name: Billy Tunney
+  imageName: Billy
+  major: Mechanical Engineering
+  year: Junior
+- name: Brendan Zotto
+  imageName: Zotto
+  subsystem: Electronics
+  major: Electrical Engineering
+  year: Sophomore
+- name: Cameron Contarino
+  imageName: Cameron
+  major: Mechanical Engineering
+  year: Sophomore
+- name: Devon Gaynes
+  imageName: Devon
+  major: Atmospheric and Oceanic Sciences
+  year: Sophomore
+- name: Dorothy Hurtle
+  imageName: Dorothy
+  major: Mechanical Engineering
+  year: Junior
+- name: Gbenga Akindejoye
+  imageName: Gbenga
+  major: Mechanical Engineering
+  year: Junior
+- name: Luke Richardson
+  imageName: Luke
+  major: Mechanical Engineering
+  year: Junior
+
+
+
 - name: Zach Grimm
   imageName: Grimm
   position: Graduate Advisor
