@@ -8,7 +8,7 @@ sidebar: left
 sidebarCategory: About
 categoryLink: "/about/"
 ---
-As a member of Stony Brook Motorsports, you have a choice to participate in any of six main subsystems. These include powertrain, chassis, electronics, steering, suspension, and control systems. All of the subsystems are important and dependent on each other. Students typically do not choose just one subsystem to work on, but divide their time where their help is needed most.
+As a member of Stony Brook Motorsports, you have a choice to participate in any of seven main subsystems. These include powertrain, chassis, electronics, steering, suspension, control systems, and composites. All of the subsystems are important and dependent on each other. Students typically do not choose just one subsystem to work on, but divide their time where their help is needed most.
 
 ### Powertrain
 <img src="{{ site.baseurl}}/images/subsystems/powertrain.jpg" style="float:right; margin:10px; width:300px;">
@@ -33,3 +33,7 @@ Currently the vehicle is designed utilizing a short long arm (SLA) type suspensi
 ### Control Systems
 <img src="{{ site.baseurl}}/images/subsystems/controlsystems.jpg" style="float:right; margin:10px; width:300px;">
 The control systems of the vehicle encompasses all driver-vehicle interfaces. Cockpit ergonomics are researched to ensure that the car is suitable for a wide demographic (5 percentile female to 95th percentile male). Transmission and steering controls are laid out to ensure that the driver can quickly and comfortably control the vehicle without excessive effort. This group is also tasked with designing the brake system so that the car successfully locks all four wheels, a requirement for technical inspection. Any electronics on the vehicle are also included in the control systems category (Data Acquisition Systems).
+
+### Composites
+<img src="{{ site.baseurl}}/images/subsystems/composites.jpg" style="float:right; margin:10px; width:300px;">
+To minimize weight on the vehicle, ABS plastic panels are thermoformed using handmade and machined wooden molds.The 1/16” ABS plastic sheets are easy to form and create light weight panels that protect the driver and vehicle components from debris. The seat, CVT cover, and light panel are made of carbon fiber to maintain a low weight, yet provide high strength and rigidity. The molds are carefully waxed and prepared with a release agent to ensure that the epoxy resin does not bond with the mold. After the carbon fiber is laid down, epoxy resin is applied and the piece is vacuumed bagged to remove any excess epoxy resin.
