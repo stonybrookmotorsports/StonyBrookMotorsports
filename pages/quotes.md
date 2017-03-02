@@ -28,6 +28,7 @@ Joisey:
 "Ok so, where I actually is am at?"  
 "It's like we're the same person, woah!"  
 "On a scale from 0 to person, you're above average? How does that work?"  
+"When Mikey sent the chocolate, my first thought was Bhatt ate it all"
 
 Duck:  
 "it's better than ur cousins giving ur rap name Lil D"  
@@ -51,6 +52,9 @@ Muffins:
 Lee:  
 "I don't say anything quotable"  
 
+John:  
+"Cats are just defective puppies."  
+
 Muffins: "Hey, why do you have that light on your backpack?"  
 Duck: "My mom gave it to me, she's afraid I'll get attacked at night or something."  
 
@@ -65,6 +69,3 @@ Neil: No wait Paul, come back!
 
 Ian: If you were a fruit you'd be a cute-cumber...  
 Ian: That's a vegetable...  
-
-John:  
-"Cats are just defective puppies."  
