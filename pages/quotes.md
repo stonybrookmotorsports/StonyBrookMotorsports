@@ -54,6 +54,7 @@ Lee:
 
 John:  
 "Cats are just defective puppies."  
+"Aren't the geese supposed to migrate?  Go migrate.  Go away."
 
 Muffins: "Hey, why do you have that light on your backpack?"  
 Duck: "My mom gave it to me, she's afraid I'll get attacked at night or something."  
