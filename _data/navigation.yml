@@ -28,6 +28,8 @@
       url: "/team/forms/"
     - title: "Resources"
       url: "/team/resources/"
+    - title: "Members"
+      url: "/about/members/"
 
 - title: "Sponsors"
   url: "/sponsors/"
