@@ -20,6 +20,9 @@ header: no
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
+
+
+
 <div class="flexslider">
   <ul class="slides">
     <li>
@@ -48,6 +51,7 @@ header: no
     </li>
   </ul>
 </div>
+
 
 
 <div class="row">
