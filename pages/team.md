@@ -15,7 +15,7 @@ All Stony Brook students, regardless of year, major, or experience, are welcome 
 
 _Review the required safety [forms]({{site.baseurl}}/team/forms) and other important team information and check out the useful links on the [resources]({{site.baseurl}}/team/resources) page._
 
-_Visit the [about]({{site.baseurl}}/about) tab to learn more about what we do, and the [garage]({{site.baseurl}}/garage) tab to explore our previous vehicles._
+
 
 <br>
 <ul class="small-block-grid-2">  

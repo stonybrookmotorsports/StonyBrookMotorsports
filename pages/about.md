@@ -16,7 +16,7 @@ Stony Brook Motorsports is comprised of students from a variety of academic back
 
 _Learn more [about SAE]({{site.baseurl}}/about/sae), read about the [subsystems]({{site.baseurl}}/about/subsystems) you can work on as a member, and meet our student [members]({{site.baseurl}}/about/members) and faculty [advisors]({{site.baseurl}}/about/advisors)._
 
-_Visit the [garage]({{site.baseurl}}/garage) tab to explore our previous vehicles, and the [team]({{site.baseurl}}/team) tab for team forms and resources._
+
 
 
 <img src="{{site.baseurl}}/images/garage/2014.jpg">

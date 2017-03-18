@@ -13,7 +13,7 @@ Our team was founded in 1987 here at Stony Brook University and luckily, there a
 
 <hr>
 
-_Visit the [about]({{site.baseurl}}/about) tab to learn more about what we do, and the [team]({{site.baseurl}}/team) tab for team forms and resources._
+
 
 <br>
 <ul class="small-block-grid-2">  
