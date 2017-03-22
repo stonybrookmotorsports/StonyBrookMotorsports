@@ -11,8 +11,12 @@ categoryLink: "/about/"
 advisors:
   - Name: Noah Machtay, Ph.D., P.E.
     imageName: Noah
+  - Name: Rafael Tejada
+    imageName: Rafael
   - Name: Henry Honigman
     imageName: Henry
+  - Name: Joe Schurz
+    imageName: Joe
   - Name: Bob Martin
     imageName: Bob
 ---
