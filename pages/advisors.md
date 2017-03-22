@@ -13,6 +13,7 @@ advisors:
     imageName: Noah
   - Name: Rafael Tejada
     imageName: Rafael
+    position: Machine Maintenance and Fabrication Advisor
   - Name: Henry Honigman
     imageName: Henry
   - Name: Joe Schurz
@@ -25,7 +26,12 @@ advisors:
 {% for advisor in page.advisors %}
   <li>
     <img src="{{ site.baseurl }}/images/advisors/{{ advisor.imageName }}.png"><br>
-    <h3>{{advisor.Name}}</h3><br><br>   
+    <h3>{{advisor.Name}}</h3>   
+    {% if advisor.position %}
+      <i>{{ advisor.position}}</i><br>
+    {% endif %}
+  <br><br>
   </li>
+
 {% endfor %}
 </ul>
