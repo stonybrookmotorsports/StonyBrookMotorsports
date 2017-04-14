@@ -56,10 +56,13 @@
   websiteURL: http://solidworks.com
 - name: D & I Finishing
   logoURL: /images/sponsors/D&I.png
+  websiteURL: http://me.eng.sunysb.edu/~motorsports/sponsors/difinishing
 - name: South Shore Boat Yard
   websiteURL: http://southshoreboatyard.com/
   logoURL: /images/sponsors/southshore.png
-
+- name: Third Generation Auto Body II
+  websiteURL: https://3rdgenab.com/
+  logoURL: /images/sponsors/thirdgeneration.png
 
 - name: Performance
   logoURL: /images/sponsors/performance.png
