@@ -55,7 +55,7 @@
   logoURL: /images/sponsors/solidworks.jpg
   websiteURL: http://solidworks.com
 - name: D & I Finishing
-  logoURL: /images/sponsors/D&I.png
+  logoURL: /images/sponsors/dnifinishing2.png
   websiteURL: http://me.eng.sunysb.edu/~motorsports/sponsors/difinishing
 - name: South Shore Boat Yard
   websiteURL: http://southshoreboatyard.com/
@@ -66,6 +66,9 @@
 - name: 4PCB
   websiteURL: http://www.4pcb.com/
   logoURL: /images/sponsors/4pcb.png
+- name: Asana
+  websiteURL: http://www.asana.com/
+  logoURL: /images/sponsors/asana.png
 
 - name: Performance
   logoURL: /images/sponsors/performance.png
