@@ -21,6 +21,9 @@
 - name: Superior
   logoURL: /images/sponsors/superior.png
   websiteURL: http://www.superiorwasher.com/
+- name: GKN
+  logoURL: /images/sponsors/gkn.png
+  websiteURL: http://www.gkn.com/
 - name: Timken
   logoURL: /images/sponsors/timken.png
   websiteURL: http://www.timken.com/
