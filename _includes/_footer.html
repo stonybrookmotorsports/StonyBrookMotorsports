@@ -13,8 +13,9 @@
   <div class="small-12 columns">
     <div style="margin: auto; width: 95%;">
     {% for sponsor in site.data.sponsorsFooter %}
-      <a href="{{sponsor.websiteURL}}" target="_blank"><img border="0" alt="{{sponsor.name}}" src="{{ site.baseurl }}{{sponsor.logoURL}}"  style="float: left; height: 37px;  padding-left: 15px;"></a>
+      <a href="{{sponsor.websiteURL}}" target="_blank"><img border="0" alt="{{sponsor.name}}" src="{{ site.baseurl }}{{sponsor.logoURL}}"  style="float: left; height: 70px;  padding-left: 30px; padding-bottom: 25px"></a>
       {% endfor %}
+      <a href="{{site.baseurl}}/sponsors" style="float: right; margin-right: 60px; COLOR: white; font-size: 20px">All Sponsors</a>
     </div>
   </div>
 </div>
