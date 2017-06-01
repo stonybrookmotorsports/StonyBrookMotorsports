@@ -1,4 +1,4 @@
-var deadline = '2017-05-25';
+var deadline = '2017-06-05';
 
 function getTimeRemaining(endtime){
   var t = Date.parse(endtime) - Date.parse(new Date());
@@ -14,7 +14,7 @@ function initializeClock(id, endtime){
   var daysSpan = clock.querySelector('.days');
   function updateClock(){
     var t = getTimeRemaining(endtime);
-    
+
     daysSpan.innerHTML = t.days;
 
     if(t.total<=0){

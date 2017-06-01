@@ -26,12 +26,12 @@ header: no
 <div class="flexslider">
   <ul class="slides">
     <li>
-      <img src="{{site.baseurl}}/images/slider/cars3.jpg" />
-      <p class="flex-caption">Cars 18 and 22 with the motorsports statue</p>
+      <img src="{{site.baseurl}}/images/slider/car15.jpg" />
+      <p class="flex-caption">Car 15 at Kansas</p>
     </li>
     <li>
-      <img src="{{site.baseurl}}/images/slider/car22.jpg" />
-      <p class="flex-caption">Car 22 at Rochester</p>
+      <img src="{{site.baseurl}}/images/slider/cars3.jpg" />
+      <p class="flex-caption">Cars 18 and 22 with the motorsports statue</p>
     </li>
     <li>
       <img src="{{site.baseurl}}/images/slider/marco.jpg" />
@@ -88,7 +88,7 @@ header: no
 <div class="small-12 medium-6 columns">
 <br>
     <div id="clockdiv">
-      <h4><span class="days"></span> Days until Baja SAE Kansas</h4>
+      <h4><span class="days"></span> Days until Baja SAE Illinois</h4>
     </div>
 
 
