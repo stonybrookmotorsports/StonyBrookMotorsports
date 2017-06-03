@@ -16,7 +16,7 @@ Gramps:
 "A lot of learning going on here."  
 "Long hair or short hair, I don't care... she cute AF."  
 "Neil, can I look at your shaft?"  
-"She's a moron.  She's more off than on."
+"She's a moron.  She's more off than on."  
 
 Fearless Leader:  
 "Hashtag facepalm"  
@@ -49,20 +49,20 @@ Muffins:
 "I know that old story"  
 "Whatever boats your float"  
 "It's like we're the same person, woah!"  
-"Dorothy, you have the left of way."
-"John Park puts bananas in the fridge and they go bad immediately."
+"Dorothy, you have the left of way."  
+"John Park puts bananas in the fridge and they go bad immediately."  
 
 Lee:  
 "I don't say anything quotable"  
 
 John:  
 "Cats are just defective puppies."  
-"Aren't the geese supposed to migrate?  Go migrate.  Go away."
-"Waba waba"
-"I'm not sure why I bring my phone.  Do one ever calls me except spam callers."
+"Aren't the geese supposed to migrate?  Go migrate.  Go away."  
+"Waba waba"  
+"I'm not sure why I bring my phone.  Do one ever calls me except spam callers."  
 
-Billy:
-"Do we need any tappy tappy things or do they just come out?"
+Billy:  
+"Do we need any tappy tappy things or do they just come out?"  
 
 Muffins: "Hey, why do you have that light on your backpack?"  
 Duck: "My mom gave it to me, she's afraid I'll get attacked at night or something."  
@@ -79,14 +79,17 @@ Neil: No wait Paul, come back!
 Ian: If you were a fruit you'd be a cute-cumber...  
 Ian: That's a vegetable...  
 
-Billy: What, I don't get any quotes?
-Paul: John has set the standard too high.
+Billy: What, I don't get any quotes?  
+Paul: John has set the standard too high.  
 
-Devon: What do you like about Roosevelt Island?
-Paul: It's devoid of people.
+Devon: What do you like about Roosevelt Island?  
+Paul: It's devoid of people.  
 
-Paul: I'm allergic to dust, pollen-
-Devon: And people?
+Paul: I'm allergic to dust, pollen-  
+Devon: And people?  
 
-Lee: Do you know what LED stands for?
-John: Low electron diode.
+Lee: Do you know what LED stands for?  
+John: Low electron diode.  
+
+Matt: We should validate everything and make the goal for the following year to drop 30 pounds.  
+Billy: I can do that, give me a week.
