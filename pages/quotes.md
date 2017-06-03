@@ -92,4 +92,10 @@ Lee: Do you know what LED stands for?
 John: Low electron diode.  
 
 Matt: We should validate everything and make the goal for the following year to drop 30 pounds.  
-Billy: I can do that, give me a week.
+Billy: I can do that, give me a week.  
+
+Paul: Jenry said if I submitted an order for a puppy, he'd announce it at a GBM.  I told myself I'd do that before the last GBM, but I forgot.  
+Billy: Paul, that's what Asana's for.  
+
+Paul: Guess who said this quot-  
+Le Si:  Aravinda?  
