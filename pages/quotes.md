@@ -64,6 +64,16 @@ John:
 Billy:  
 "Do we need any tappy tappy things or do they just come out?"  
 
+Spencer:
+"I don't disagree"
+"I'm gonna hit this with a hammer.  I'll be right back."
+
+Devon: How long does the pizza go in the microwave?
+Spencer: Ariba! Doo doo da doo doo... oh, sorry I wasn't paying attention.
+
+Devon: John, you are FEA, you validate me.
+John: Thank you.
+
 Muffins: "Hey, why do you have that light on your backpack?"  
 Duck: "My mom gave it to me, she's afraid I'll get attacked at night or something."  
 
