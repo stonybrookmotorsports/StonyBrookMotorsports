@@ -95,6 +95,9 @@ Cameron:
 Luke:  
 "..."  
 
+Jenry:
+"I've said many funny things."  
+
 Devon: How long does the pizza go in the microwave?  
 Spencer: Ariba! Doo doo da doo doo... oh, sorry I wasn't paying attention.  
 
