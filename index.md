@@ -84,15 +84,27 @@ header: no
   </div>
 </div>
 
+
+
 <div class="row">
 <div class="small-12 medium-6 columns">
 <br>
     <div id="clockdiv">
+
+    <!--
+
+    CODE FOR COUNTDOWN TIMER
+
       <h4><span class="days"></span> Days until Baja SAE Illinois</h4>
+
+      -->
+      
     </div>
 
 
 </div>
+
+
 <div class="small-12 medium-6 columns">
   <h3>Resources</h3>
   <ul class="inline-list">

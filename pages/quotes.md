@@ -17,6 +17,7 @@ Gramps:
 "Long hair or short hair, I don't care... she cute AF."  
 "Neil, can I look at your shaft?"  
 "She's a moron.  She's more off than on."  
+"2468 2468 We appreciate we appreciate Noah Noah"
 
 Fearless Leader:  
 "Hashtag facepalm"  
@@ -48,9 +49,11 @@ Muffins:
 "You know rocks will be around for a long time."  
 "I know that old story"  
 "Whatever boats your float"  
-"It's like we're the same person, woah!"  
+"It's like we're the same person, woah!"
+"I have good genes, they're Levi's"
 "Dorothy, you have the left of way."  
 "John Park puts bananas in the fridge and they go bad immediately."  
+"Adult supercenter, is that where they sell dishwashers, laundry detergent, do your taxes there..."  
 
 Lee:  
 "I don't say anything quotable"  
@@ -60,13 +63,37 @@ John:
 "Aren't the geese supposed to migrate?  Go migrate.  Go away."  
 "Waba waba"  
 "I'm not sure why I bring my phone.  Do one ever calls me except spam callers."  
+"Bird bird bird is the word."  
+"If life gives you lemons, you eat them."
 
 Billy:  
 "Do we need any tappy tappy things or do they just come out?"  
+"I'm good at translating Bhatt."
 
 Spencer:  
 "I don't disagree"  
-"I'm gonna hit this with a hammer.  I'll be right back."  
+"I'm gonna hit this with a hammer.  I'll be right back."
+"Steel, it's cheaper than aluminum, and these fucking bugs are killing me."    
+
+Devon:  
+"You need to go to the Spencer Locks school of manners."  
+"Take it from me, I'm good at making stuff up right on the spot."  
+"A pancake would make a really nice pillow though."  
+"If you carve out the middle, you could make a necklace out of a pancake."  
+"I also talked about making jewelry out of pancakes and waffles. What I say at 2 AM is not valid."  
+"Do you think I would be a good corn farmer?"  
+
+Dorothy:  
+"Deep down, Matt has a heart."  
+
+Marco:  
+"Why can't our school color be reflective white?"  
+
+Cameron:  
+"Believe it or not, the Barbie show has gotten amazing."  
+
+Luke:  
+"..."  
 
 Devon: How long does the pizza go in the microwave?  
 Spencer: Ariba! Doo doo da doo doo... oh, sorry I wasn't paying attention.  
@@ -109,3 +136,27 @@ Billy: Paul, that's what Asana's for.
 
 Paul: Guess who said this quot-  
 Le Si:  Aravinda?  
+
+Aravinda: That bag of cookies was finished 20 hours ago.  
+Devon:  We haven't been driving for 20 hours.  
+Aravinda: I stand by my statement.  
+
+Paul:  I can't hear you, John.  
+John:  I can't hear myself either.  
+
+Devon: John, I need you to use your outdoor voice.  
+John: We're indoors.  
+
+John: You have an ant farm?  
+Paul:  No, where did you hear that?  
+Neil:  You have an alien ant farm?  
+Paul:  Neil, you're trying too hard.  
+
+Neil:  What do you think about global warming?  
+John:  It's not good-ish.  
+
+Neil:  What's your favorite seltzer flavor?  
+John:  Water.  
+
+Neil, for the third time:  Is it just that?  
+Zotto:  Ask one more time, it might change.  
