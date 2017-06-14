@@ -34,8 +34,8 @@ header: no
       <p class="flex-caption">Cars 18 and 22 with the motorsports statue</p>
     </li>
     <li>
-      <img src="{{site.baseurl}}/images/slider/marco.jpg" />
-      <p class="flex-caption">Design</p>
+      <img src="{{site.baseurl}}/images/slider/illinois.jpg" />
+      <p class="flex-caption">Baja SAE Illinois 2017</p>
     </li>
     <li>
       <img src="{{site.baseurl}}/images/slider/neil.jpg" />
@@ -98,7 +98,7 @@ header: no
       <h4><span class="days"></span> Days until Baja SAE Illinois</h4>
 
       -->
-      
+
     </div>
 
 
