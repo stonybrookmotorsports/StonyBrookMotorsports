@@ -94,10 +94,10 @@ header: no
     <!--
 
     CODE FOR COUNTDOWN TIMER
+-->
+      <h4><span class="days"></span> Days until fall semester</h4>
 
-      <h4><span class="days"></span> Days until Baja SAE Illinois</h4>
 
-      -->
 
     </div>
 
