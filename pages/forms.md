@@ -31,7 +31,6 @@ In order to join the team and work in the shop, everyone must pass three online 
 ### Important Links
 - Join our [Slack team](https://sbum.slack.com/x-15349418596-56352870371/signup){:target="_blank"} to communicate with the team.
 - Join our [email list](http://groups.google.com/forum/#!forum/stony-brook-motorsports){:target="_blank"} to receive important updates.  Click "subscribe to this group" and enter your **Stony Brook email address**.  
-- Use our [suggestion box](https://sites.google.com/site/stonybrookmotorsports/forms/suggestions) to anonymously voice your suggestions, concerns, and issues.
 - Read the [2017 rules](http://students.sae.org/cds/bajasae/rules/){:target="_blank"}.  Everyone who wishes to participate in the design and fabrication of the car should read them thoroughly.
 
 ### Other Information

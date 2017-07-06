@@ -1,111 +1,84 @@
-- name: Matt Kesich
-  imageName: Matt
-  position: President
-  subsystem: Suspension/Steering
-  major: Mechanical Engineering
-  year: Senior
-- name: Neil Dusling
-  imageName: Neil
-  position: Vice President
-  subsystem: Chassis
-  major: Mechanical Engineering
-  year: Senior
-- name: Aravinda Bhatt
-  imageName: Aravinda
-  position: Secretary
-  subsystem: Powertrain
-  major: Mechanical Engineering
-  year: Senior
 - name: Jenry Nieto Martinez
   imageName: Jenry
-  position: Treasurer
+  position: President
   subsystem: Suspension/Steering, Composites
-  major: Mechanical Engineering
-  year: Sophomore
-- name: Spencer Locks
-  imageName: Spencer
-  position: Design Leader
-  subsystem: Powertrain
-  major: Mechanical Engineering
-  year: Senior
-- name: Ian Greenberg
-  imageName: Ian
-  position: Fabrication Leader
-  subsystem: Control Systems
-  major: Mechanical Engineering
-  year: Senior
-- name: Lee Flader
-  imageName: Lee
-  position: Testing Manager
-  subsystem: Electronics
-  major: Electrical Engineering
-  year: It's complicated
-- name: Daniel Su
-  imageName: Daniel
-  position: Machine Shop Manager
-  subsystem: Suspension/Steering
   major: Mechanical Engineering
   year: Junior
 - name: Paul Li
   imageName: Paul
-  position: Public Relations Specialist
+  position: Vice President
   subsystem: Suspension/Steering
   major: Mechanical Engineering
-  year: Sophomore
-- name: Ryan Reilly
-  imageName: Ryan
+  year: Junior
+- name: Luke Richardson
+  imageName: Luke
+  position: Secretary
   subsystem: Powertrain
   major: Mechanical Engineering
-  year: Sophomore
-- name: John Park
-  imageName: John
-  subsystem: Suspension/Steering
+  year: Senior
+- name: Cameron Contarino
+  imageName: Cameron
+  position: Treasurer
+  subsystem: Composites
   major: Mechanical Engineering
   year: Sophomore
 - name: Billy Tunney
   imageName: Billy
+  position: Design Leader
+  subsystem: Powertrain
+  major: Mechanical Engineering
+  year: Senior
+- name: Gbenga Akindejoye
+  imageName: Gbenga
+  position: Fabrication Leader
+  subsystem: Suspension/Steering
+  major: Mechanical Engineering
+  year: Senior
+- name: John Park
+  imageName: John
+  position: Testing Manager
+  subsystem: Chassis
   major: Mechanical Engineering
   year: Junior
+- name: Daniel Su
+  imageName: Daniel
+  position: Machine Shop Manager
+  subsystem: Control Systems
+  major: Mechanical Engineering
+  year: Senior
+- name: Devon Gaynes
+  imageName: Devon
+  position: Public Relations Specialist
+  major: Applied Mathematics and Statistics & Atmospheric and Oceanic Sciences
+  year: Junior
+- name: Lee Flader
+  imageName: Lee
+  subsystem: Electronics
+  major: Electrical Engineering
+  year: Senior
 - name: Brendan Zotto
   imageName: Zotto
   subsystem: Electronics
   major: Electrical Engineering
-  year: Sophomore
-- name: Cameron Contarino
-  imageName: Cameron
+  year: Junior
+- name: Marco Losada
   major: Mechanical Engineering
-  year: Freshman
-- name: Devon Gaynes
-  imageName: Devon
-  major: Atmospheric and Oceanic Sciences
+  imageName: Marco
   year: Sophomore
 - name: Dorothy Hurtle
   imageName: Dorothy
+  subsystem: Composites
   major: Mechanical Engineering
   year: Junior
-- name: Gbenga Akindejoye
-  imageName: Gbenga
+- name: Kenneth Li
+  imageName: Kenneth
+  major: Mechanical Engineering
+  year: Junior
+- name: Ryan Reilly
+  imageName: Ryan
   major: Mechanical Engineering
   year: Junior
 - name: Jonathan Brady
   imageName: Brady
   major: Mechanical Engineering
   year: Sophomore
-- name: Kenneth Li
-  imageName: Kenneth
-  major: Mechanical Engineering
-  year: Sophomore
-- name: Luke Richardson
-  imageName: Luke
-  major: Mechanical Engineering
-  year: Junior
-- name: Marco Losada
-  major: Mechanical Engineering
-  imageName: Marco
-  year: Freshman
-
-
-- name: Zach Grimm
-  imageName: Grimm
-  position: Graduate Advisor
-  major: Mechanical Engineering
