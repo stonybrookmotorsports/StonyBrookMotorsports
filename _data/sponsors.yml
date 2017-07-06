@@ -24,9 +24,7 @@
 - name: GKN
   logoURL: /images/sponsors/gkn.png
   websiteURL: http://www.gkn.com/
-- name: Timken
-  logoURL: /images/sponsors/timken.png
-  websiteURL: http://www.timken.com/
+
 - name: Kinemotive
   logoURL: /images/sponsors/kinemotive.png
   websiteURL: http://www.kinemotive.com/
@@ -36,21 +34,7 @@
 - name: Base BKNY
   logoURL: /images/sponsors/base.png
   websiteURL: http://basebrooklyn.net/online/
-- name: Polaris
-  logoURL: /images/sponsors/polaris.png
-  websiteURL: http://www.polaris.com/en-us/home.aspx
-- name: Briggs
-  logoURL: /images/sponsors/briggs.png
-  websiteURL: http://www.briggsandstratton.com/us/en
-- name: Fox
-  logoURL: /images/sponsors/fox.png
-  websiteURL: http://www.ridefox.com/
-- name: VR3 Engineering
-  logoURL: /images/sponsors/vr3.jpg
-  websiteURL: http://vr3.ca/
-- name: Parfuse
-  logoURL: /images/sponsors/parfuse.png
-  websiteURL: http://parfuse.com/
+
 - name: Mastercam
   logoURL: /images/sponsors/mastercam.png
   websiteURL: http://www.mastercam.com/en-us/
@@ -88,3 +72,21 @@
 - name: Astro
   logoURL: /images/sponsors/astro.png
   websiteURL: http://www.astroelectroplating.com/
+- name: Timken
+  logoURL: /images/sponsors/timken.png
+  websiteURL: http://www.timken.com/
+- name: Polaris
+  logoURL: /images/sponsors/polaris.png
+  websiteURL: http://www.polaris.com/en-us/home.aspx
+- name: Briggs
+  logoURL: /images/sponsors/briggs.png
+  websiteURL: http://www.briggsandstratton.com/us/en
+- name: Fox
+  logoURL: /images/sponsors/fox.png
+  websiteURL: http://www.ridefox.com/
+- name: VR3 Engineering
+  logoURL: /images/sponsors/vr3.jpg
+  websiteURL: http://vr3.ca/
+- name: Parfuse
+  logoURL: /images/sponsors/parfuse.png
+  websiteURL: http://parfuse.com/

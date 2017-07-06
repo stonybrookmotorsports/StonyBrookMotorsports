@@ -30,11 +30,11 @@ By offering your support, you will be helping future engineers gain important sk
 <ul>  
 <li>name/logo on our website, team shirt, trailer, and vehicles</li>  
 <li>recognition at on-campus and community events</li>  
-<li>recognition at SAE competitions attended by roughly 1250 students and 1000 professionals and onlookers</li>  
+<li>recognition at SAE competitions attended by over 2500 students, professionals, and onlookers</li>  
 <li>tour of the machine shop and updates on the status of the car</li>  
 </ul>
 
-Please check out our [2016-2017 sponsorship packet](https://drive.google.com/open?id=0B_n_QnoqnnU7NjZ5c2tZUWZZcDg){:target="_blank"} for more details, and [contact]({{site.baseurl}}/contact/) us if you're interested in becoming a sponsor.
+Please check out our [2017-2018 sponsorship packet]({{site.baseurl}}/files/Sponsorship Packet 17-18.pdf){:target="_blank"} for more details, and [contact]({{site.baseurl}}/contact/) us if you're interested in becoming a sponsor.
 
 <br>
 
