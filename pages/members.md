@@ -2,7 +2,7 @@
 layout: page-fullwidth
 show_meta: false
 title: "Members"
-permalink: "/about/members/"
+permalink: "/team/members/"
 header: no
 ---
 <br>

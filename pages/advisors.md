@@ -2,7 +2,7 @@
 layout: page-fullwidth
 show_meta: false
 title: "Faculty Advisors"
-permalink: "/about/advisors/"
+permalink: "/team/advisors/"
 header: no
 
 
@@ -20,7 +20,7 @@ advisors:
     imageName: Bob
 ---
 <br>
-<ul class="small-block-grid-1 medium-block-grid-2">
+<ul class="small-block-grid-1 medium-block-grid-3">
 {% for advisor in page.advisors %}
   <li>
     <img src="{{ site.baseurl }}/images/advisors/{{ advisor.imageName }}.png"><br>
