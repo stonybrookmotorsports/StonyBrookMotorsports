@@ -23,26 +23,7 @@ Stony Brook Motorsports could not be nearly as successful of a team without the 
 {% endfor %}
 </ul>
 
-<a name="sponsorus"></a>  
-<h3>Sponsor Us</h3>  
+<a name="sponsorus"></a>
+<h3>Sponsor Us</h3>
 
-By offering your support, you will be helping future engineers gain important skills and ensuring the team continues to exist for future students to have the same opportunity.  To show our appreciation, some of the ways we recognize our sponsors include:
-<ul>  
-<li>name/logo on our website, team shirt, trailer, and vehicles</li>  
-<li>recognition at on-campus and community events</li>  
-<li>recognition at SAE competitions attended by over 2500 students, professionals, and onlookers</li>  
-<li>tour of the machine shop and updates on the status of the car</li>  
-</ul>
-
-Please check out our [2017-2018 sponsorship packet]({{site.baseurl}}/files/Sponsorship Packet 17-18.pdf){:target="_blank"} for more details, and [contact]({{site.baseurl}}/contact/) us if you're interested in becoming a sponsor.
-
-<br>
-
-<ul class="medium-block-grid-3 small-block-grid-1" style="width:100%; margin:auto;">
-  <li><div><img src="{{ site.baseurl }}/images/sponsorPage/panel.jpg" ><div><I>Sponsor logos</I></div></div></li>
-  <li><div><img src="{{ site.baseurl }}/images/sponsorPage/involvement.jpg" ><div><I>Campus Involvement Fair</I></div></div></li>
-  <li><div><img src="{{ site.baseurl }}/images/sponsorPage/holiday.jpg" ><div><I>Three Village Holiday Parade</I></div></div></li>
-  <li><div><img src="{{ site.baseurl }}/images/sponsorPage/admitted.jpg" ><div><I>Admitted Students Day</I></div></div></li>
-  <li><div><img src="{{ site.baseurl }}/images/sponsorPage/homecoming.jpg" ><div><I>Wolfstock homecoming barbeque</I></div></div></li>
-  <li><div><img src="{{ site.baseurl }}/images/sponsorPage/iab.jpg" ><div><I>Industrial Advisory Board</I></div></div></li>
-</ul>
+By offering your support, you will be helping future engineers gain important skills and ensuring the team continues to exist for future students to have the same opportunity.  Please check out our [2017-2018 sponsorship packet]({{site.baseurl}}/files/Sponsorship Packet 17-18.pdf){:target="_blank"} for more details, and [contact]({{site.baseurl}}/contact/) us if you're interested in becoming a sponsor.
