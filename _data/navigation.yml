@@ -6,14 +6,13 @@
   url: "/about/"
   side: right
   dropdown:
+    - title: "About Us"
+      url: "/about/"
     - title: "About SAE"
       url: "/about/sae/"
     - title: "Subsystems"
       url: "/about/subsystems/"
-    - title: "Members"
-      url: "/about/members/"
-    - title: "Advisors"
-      url: "/about/advisors/"
+
 
 - title: Garage
   url: "/garage/"
@@ -24,12 +23,23 @@
   url: "/team/"
   side: right
   dropdown:
-    - title: "Forms"
-      url: "/team/forms/"
-    - title: "Resources"
-      url: "/team/resources/"
     - title: "Members"
-      url: "/about/members/"
+      url: "/team/members/"
+    - title: "Advisors"
+      url: "/team/advisors/"
+    - title: "Alumni"
+      url: "/about/alumni/"
+
+
+- title: "Resources"
+  side: right
+  dropdown:
+    - title: "Join"
+      url: "/resources/join/"
+    - title: "Forms"
+      url: "/resources/forms/"
+    - title: "Links"
+      url: "/resources/links/"
 
 - title: "Sponsors"
   url: "/sponsors/"
