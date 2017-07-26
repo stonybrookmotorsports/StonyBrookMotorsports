@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "About"
 permalink: "/about/"
 header: no
-sidebar: left
-sidebarCategory: About
-categoryLink: "/about/"
+
 ---
 
 

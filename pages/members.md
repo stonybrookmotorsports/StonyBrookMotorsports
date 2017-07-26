@@ -1,15 +1,12 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "Members"
 permalink: "/about/members/"
 header: no
-sidebar: left
-sidebarCategory: About
-categoryLink: "/about/"
 ---
 <br>
-<ul class="small-block-grid-1 medium-block-grid-2">
+<ul class="small-block-grid-1 medium-block-grid-3">
 {% for member in site.data.members %}
   <li>
       <img src="{{ site.baseurl }}/images/members/{{ member.imageName }}.png">

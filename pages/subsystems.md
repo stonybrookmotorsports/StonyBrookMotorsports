@@ -1,12 +1,9 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "Subsystems"
 permalink: "/about/subsystems/"
 header: no
-sidebar: left
-sidebarCategory: About
-categoryLink: "/about/"
 ---
 As a member of Stony Brook Motorsports, you have a choice to participate in any of seven main subsystems. These include powertrain, chassis, electronics, steering, suspension, control systems, and composites. All of the subsystems are important and dependent on each other. Students typically do not choose just one subsystem to work on, but divide their time where their help is needed most.
 
@@ -24,11 +21,11 @@ Electronics are implemented in the design, testing, and fabrication of the vehic
 
 ### Steering
 <img src="{{ site.baseurl}}/images/subsystems/steering.jpg" style="float:right; margin:10px; width:300px;">
-The steering subsystem is responsible for providing the operator with maximum directional control over the vehicle via the steering wheel. The steering wheel rotational input is transferred down the steering column to the steering rack. The purpose of the steering rack is to the translate the rotational motion of the steering column into lateral, linear motion by means of a rack and pinion gear set. Attached on each side of the rack are tie rods, which transfer the lateral motion of the rack to the steering arms - one mounted at each front wheel. When the tie rods push / pull on the steering arms, there is a change in the direction of the wheel. The combined ratio of the gear set and steering arms provide the final steering ratio of the vehicle. In the end, if the driver turns the steering wheel clockwise, the car will turn right and when turned counterclockwise, the car will turn left.  
+The steering subsystem is responsible for providing the operator with maximum directional control over the vehicle via the steering wheel. The steering wheel rotational input is transferred down the steering column to the steering rack. The purpose of the steering rack is to the translate the rotational motion of the steering column into lateral, linear motion by means of a rack and pinion gear set. Attached on each side of the rack are tie rods, which transfer the lateral motion of the rack to the steering arms - one mounted at each front wheel. When the tie rods push / pull on the steering arms, there is a change in the direction of the wheel. The combined ratio of the gear set and steering arms provide the final steering ratio of the vehicle. In the end, if the driver turns the steering wheel clockwise, the car will turn right and when turned counterclockwise, the car will turn left.
 
 ### Suspension
 <img src="{{ site.baseurl}}/images/subsystems/suspension.jpg" style="float:right; margin:10px; width:300px;">
-Currently the vehicle is designed utilizing a short long arm (SLA) type suspension for the front and a trailing arm suspension for the rear. It is a four wheel independent suspension setup that provides a considerable amount of control over rough terrain. Design of the suspension requires a combination of numerical analysis, computer simulation, and real world testing. All other subsystems are vastly affected by suspension geometry, tire choice, and shock setting. Because nearly all suspension components are fabricated by the team, members will learn about the design, fabrication, data collection, and analysis techniques involved in the performance and handling of the vehicle to a considerable degree.  
+Currently the vehicle is designed utilizing a short long arm (SLA) type suspension for the front and a trailing arm suspension for the rear. It is a four wheel independent suspension setup that provides a considerable amount of control over rough terrain. Design of the suspension requires a combination of numerical analysis, computer simulation, and real world testing. All other subsystems are vastly affected by suspension geometry, tire choice, and shock setting. Because nearly all suspension components are fabricated by the team, members will learn about the design, fabrication, data collection, and analysis techniques involved in the performance and handling of the vehicle to a considerable degree.
 
 ### Control Systems
 <img src="{{ site.baseurl}}/images/subsystems/controlsystems.jpg" style="float:right; margin:10px; width:300px;">

@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "Faculty Advisors"
 permalink: "/about/advisors/"
 header: no
-sidebar: left
-sidebarCategory: About
-categoryLink: "/about/"
+
 
 advisors:
   - Name: Noah Machtay, Ph.D., P.E.
@@ -26,7 +24,7 @@ advisors:
 {% for advisor in page.advisors %}
   <li>
     <img src="{{ site.baseurl }}/images/advisors/{{ advisor.imageName }}.png"><br>
-    <h3>{{advisor.Name}}</h3>   
+    <h3>{{advisor.Name}}</h3>
     {% if advisor.position %}
       <i>{{ advisor.position}}</i><br>
     {% endif %}

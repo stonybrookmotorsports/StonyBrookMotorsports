@@ -4,15 +4,12 @@ show_meta: false
 title: "Resources"
 permalink: "/team/resources/"
 header: no
-sidebar: left
-sidebarCategory: Team
-categoryLink: "/team/"
 ---
 
-- General Baja Information:  
+- General Baja Information:
   - [Baja SAE Rules (2017)](http://students.sae.org/cds/bajasae/rules/){:target="_blank"}
-  - [Baja SAE Forums](http://forums.bajasae.net/forum/){:target="_blank"}  
-  - [Dust to Glory](http://www.netflix.com/search/dust%2520to%2520glory){:target="_blank"} (Available on Netflix)  
+  - [Baja SAE Forums](http://forums.bajasae.net/forum/){:target="_blank"}
+  - [Dust to Glory](http://www.netflix.com/search/dust%2520to%2520glory){:target="_blank"} (Available on Netflix)
   - [How to Build a Racing Car](https://www.youtube.com/channel/UCj1P9eBlPZKyT2k9pFEMBjA/featured){:target="_blank"} (Youtube) - Follows the design, construction, and testing of a Formula Vee car
 - Off-Roading
   - [Pirate 4x4](http://www.pirate4x4.com/forum/){:target="_blank"}

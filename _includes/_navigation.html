@@ -1,6 +1,6 @@
 <div id="navigation" class="sticky">
   <div class="contain-to-grid">
-  <nav class="top-bar" role="navigation" data-options="is_hover: false" data-topbar>
+  <nav class="top-bar" role="navigation" data-options="is_hover: true" data-topbar>
     <ul class="title-area">
       <li class="name">
       <h1 class="show-for-small-only"><a href="{{ site.url }}{{ site.baseurl }}" class="icon-tree"> {{ site.title }}</a></h1>
@@ -44,7 +44,7 @@
             {% else %}
 
               <li class="divider"></li>
-              <li class="has-dropdown{% if link.url == page.url %} active{% endif %}">
+              <li class="has-dropdown{% if page.url contains link.url %} active{% endif %}">
                 <a {% if link.class %}class="{{link.class}}"{% endif %} href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{{ link.title | escape }}</a>
 
                   <ul class="dropdown">

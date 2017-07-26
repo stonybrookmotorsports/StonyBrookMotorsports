@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "About SAE"
 permalink: "/about/sae/"
 header: no
-sidebar: left
-sidebarCategory: About
-categoryLink: "/about/"
+
 ---
 
 <br>
