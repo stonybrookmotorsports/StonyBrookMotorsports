@@ -32,6 +32,7 @@
 
 
 - title: "Resources"
+  url: "/resources/"
   side: right
   dropdown:
     - title: "Join"

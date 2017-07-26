@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
 show_meta: false
-title: "Resources"
-permalink: "/team/resources/"
+title: "Useful Links"
+permalink: "/resources/links/"
 header: no
 ---
 
