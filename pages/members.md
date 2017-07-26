@@ -9,8 +9,8 @@ header: no
 <ul class="small-block-grid-1 medium-block-grid-3">
 {% for member in site.data.members %}
   <li>
-      <img src="{{ site.baseurl }}/images/members/{{ member.imageName }}.png">
-      <h3>{{ member.name }}</h3>
+      <img src="{{ site.baseurl }}/images/members/{{ member.imageName }}.png" width="250px">
+      <h4>{{ member.name }}</h4>
       {% if member.position %}
         <i>{{ member.position}}</i><br>
       {% endif %}

@@ -23,8 +23,8 @@ advisors:
 <ul class="small-block-grid-1 medium-block-grid-3">
 {% for advisor in page.advisors %}
   <li>
-    <img src="{{ site.baseurl }}/images/advisors/{{ advisor.imageName }}.png"><br>
-    <h3>{{advisor.Name}}</h3>
+    <img src="{{ site.baseurl }}/images/advisors/{{ advisor.imageName }}.png" width="250px"><br>
+    <h4>{{advisor.Name}}</h4>
     {% if advisor.position %}
       <i>{{ advisor.position}}</i><br>
     {% endif %}
