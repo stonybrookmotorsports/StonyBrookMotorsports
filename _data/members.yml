@@ -19,31 +19,31 @@
 - name: Cameron Contarino
   imageName: Cameron
   position: Treasurer
-  subsystem: Composites
+  subsystem: Composites Leader
   major: Mechanical Engineering
   year: Sophomore
 - name: Billy Tunney
   imageName: Billy
   position: Design Leader
-  subsystem: Powertrain
+  subsystem: Powertrain Leader
   major: Mechanical Engineering
   year: Senior
 - name: Gbenga Akindejoye
   imageName: Gbenga
   position: Fabrication Leader
-  subsystem: Suspension/Steering
+  subsystem: Suspension/Steering Leader
   major: Mechanical Engineering
   year: Senior
 - name: John Park
   imageName: John
   position: Testing Manager
-  subsystem: Chassis
+  subsystem: Chassis Leader
   major: Mechanical Engineering
   year: Junior
 - name: Daniel Su
   imageName: Daniel
   position: Machine Shop Manager
-  subsystem: Control Systems
+  subsystem: Control Systems Leader
   major: Mechanical Engineering
   year: Senior
 - name: Devon Gaynes
@@ -51,16 +51,16 @@
   position: Public Relations Specialist
   major: Applied Mathematics and Statistics & Atmospheric and Oceanic Sciences
   year: Junior
+- name: Brendan Zotto
+  imageName: Zotto
+  subsystem: Electronics Leader
+  major: Electrical Engineering
+  year: Junior
 - name: Lee Flader
   imageName: Lee
   subsystem: Electronics
   major: Electrical Engineering
   year: Senior
-- name: Brendan Zotto
-  imageName: Zotto
-  subsystem: Electronics
-  major: Electrical Engineering
-  year: Junior
 - name: Marco Losada
   major: Mechanical Engineering
   imageName: Marco
