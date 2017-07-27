@@ -58,10 +58,10 @@ header: no
 
   <div class="small-12 medium-8 columns">
     <h3>About Us</h3>
-    Each year, Stony Brook Motorsports designs, builds, tests, and races an off-road vehicle, competing against hundreds of colleges around the world in the Baja SAE competition.  Team members can develop skills in design, manufacturing, electronics, and sales/finance.  All Stony Brook students, regardless of year, major, or experience, are welcome to join.<br><br>
+    Each year, Stony Brook Motorsports designs, builds, tests, and races an off-road vehicle, competing against hundreds of colleges around the world in the Baja SAE competition.  Team members can develop skills in design, manufacturing, electronics, and business.  All Stony Brook students, regardless of year, major, or experience, are welcome to join.<br><br>
     <div style="text-align: right;">
-    <a href="{{site.baseurl}}/about/" class="button tiny">Learn More</a>
-    <a href="{{site.baseurl}}/resources/join/" class="button tiny success">Join Us</a>
+    <a href="{{site.baseurl}}/about/" class="button small">Learn More</a>
+    <a href="{{site.baseurl}}/resources/join/" class="button small success">Join Us</a>
     </div>
   </div>
   <div class="small-12 medium-4 columns">
