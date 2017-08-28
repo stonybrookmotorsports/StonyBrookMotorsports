@@ -97,10 +97,10 @@ header: no
     <!--
 
     CODE FOR COUNTDOWN TIMER
--->
+
       <h4><span class="days"></span> Days until fall semester</h4>
 
-
+-->
 
     </div>
 
