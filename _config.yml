@@ -25,7 +25,7 @@ author: Stony Brook Motorsports
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url:
+domain: me.eng.sunysb.edu
 baseurl: /~motorsports
 
 # This is for the editing function in _/includes/improve_content

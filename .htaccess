@@ -1,6 +1,5 @@
 Redirect 301 /~motorsports/about/members /~motorsports/team/members
 Redirect 301 /~motorsports/about/advisors /~motorsports/team/advisors
-
 Redirect 301 /~motorsports/team/forms /~motorsports/resources/forms
 Redirect 301 /~motorsports/team/resources /~motorsports/resources/links
-Redirect 301 /~motorsports/team /~motorsports/team/join
+Redirect 301 /~motorsports/team/index.html /~motorsports/resources/join
