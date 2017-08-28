@@ -44,12 +44,11 @@ urlimg: 'https://phlow.github.io/feeling-responsive/images/'
 # Logo size is 600x80 pixels
 logo: "logo.png"
 
-# Gems
-gems:
-    - jekyll-asciidoc
-    - jekyll-gist
-    #- jekyll-paginate
 
+
+plugins:
+      #- jekyll-asciidoc
+      #- jekyll-gist
 
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
