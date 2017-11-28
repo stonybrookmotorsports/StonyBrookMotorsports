@@ -7,7 +7,7 @@
 - name: Paul Li
   imageName: Paul
   position: Vice President
-  subsystem: Suspension/Steering
+  subsystem: Control Systems Leader
   major: Mechanical Engineering
   year: Junior
 - name: Luke Richardson
@@ -43,7 +43,6 @@
 - name: Daniel Su
   imageName: Daniel
   position: Machine Shop Manager
-  subsystem: Control Systems Leader
   major: Mechanical Engineering
   year: Senior
 - name: Devon Gaynes
@@ -56,29 +55,7 @@
   subsystem: Electronics Leader
   major: Electrical Engineering
   year: Junior
-- name: Lee Flader
-  imageName: Lee
-  subsystem: Electronics
-  major: Electrical Engineering
-  year: Senior
 - name: Marco Losada
   major: Mechanical Engineering
   imageName: Marco
-  year: Sophomore
-- name: Dorothy Hurtle
-  imageName: Dorothy
-  subsystem: Composites
-  major: Mechanical Engineering
-  year: Junior
-- name: Kenneth Li
-  imageName: Kenneth
-  major: Mechanical Engineering
-  year: Junior
-- name: Ryan Reilly
-  imageName: Ryan
-  major: Mechanical Engineering
-  year: Junior
-- name: Jonathan Brady
-  imageName: Brady
-  major: Mechanical Engineering
   year: Sophomore
