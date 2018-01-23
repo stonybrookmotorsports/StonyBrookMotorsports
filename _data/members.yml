@@ -55,7 +55,47 @@
   subsystem: Electronics Leader
   major: Electrical Engineering
   year: Junior
+- name: Maxime Breton
+  major: Mechanical Engineering
+  imageName: MaximeBreton
+  year: Sophomore
+- name: Olivia Chen
+  major: Chemical and Molecular Engineering
+  imageName: OliviaChen
+  year: Junior
+- name: Thomas Crimarco
+  major: Mechanical Engineering
+  imageName: ThomasCrimarco
+  year: Junior
+- name: Justin Elkin
+  major: Mechanical Engineering
+  imageName: JustinElkin
+  year: Freshman
+- name: Daniel Khait
+  major: Mechanical Engineering
+  imageName: DanielKhait
+  year: Freshman
 - name: Marco Losada
   major: Mechanical Engineering
   imageName: Marco
   year: Sophomore
+- name: Christopher Matteo
+  major: Mechanical Engineering
+  imageName: ChristopherMatteo
+  year: Freshman
+- name: Edward O'Connor
+  major: Mechanical Engineering
+  imageName: EdwardOConnor
+  year: Freshman
+- name: Christopher Quilla
+  major: Mechanical Engineering
+  imageName: ChristopherQuilla
+  year: Sophomore
+- name: Mustafa Tastan
+  major: Biology
+  imageName: MustafaTastan
+  year: Junior
+- name: Marcus Wentz
+  major: Electrical Engineering
+  imageName: MarcusWentz
+  year: Junior
