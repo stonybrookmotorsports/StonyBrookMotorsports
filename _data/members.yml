@@ -40,11 +40,11 @@
   subsystem: Chassis Leader
   major: Mechanical Engineering
   year: Junior
-- name: Daniel Su
-  imageName: Daniel
+- name: Mustafa Tastan
+  major: Biology
+  imageName: MustafaTastan
   position: Machine Shop Manager
-  major: Mechanical Engineering
-  year: Senior
+  year: Junior
 - name: Devon Gaynes
   imageName: Devon
   position: Public Relations Specialist
@@ -71,9 +71,21 @@
   major: Mechanical Engineering
   imageName: JustinElkin
   year: Freshman
+- name: Noah Halsard
+  major: Biology
+  imageName: NoahHalsard
+  year: Freshman
+- name: Christian Funes
+  major: Mechanical Engineering
+  imageName: Placeholder
+  year: Freshman
 - name: Daniel Khait
   major: Mechanical Engineering
   imageName: DanielKhait
+  year: Freshman
+- name: George Lippman
+  major: History
+  imageName: Placeholder
   year: Freshman
 - name: Felix Liu
   major: Mechanical Engineering
@@ -95,10 +107,18 @@
   major: Mechanical Engineering
   imageName: ChristopherQuilla
   year: Sophomore
-- name: Mustafa Tastan
-  major: Biology
-  imageName: MustafaTastan
-  year: Junior
+- name: Thomas Reilly
+  major: Mechanical Engineering
+  imageName: ThomasReilly
+  year: Freshman
+- name: Christopher Sherling
+  major: Mechanical Engineering
+  imageName: ChristopherSherling
+  year: Freshman
+- name: Daniel Su
+  imageName: Daniel
+  major: Mechanical Engineering
+  year: Senior
 - name: Marcus Wentz
   major: Electrical Engineering
   imageName: MarcusWentz
