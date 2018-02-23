@@ -52,6 +52,11 @@ header: no
   </ul>
 </div>
 
+<div class="panel">
+<div id="clockdiv" style="text-align: center;">
+  <h4><span class="days"></span> Days until <a href="https://www.sae.org/attend/student-events/baja-sae-oregon/" target="_blank">Baja SAE Oregon</a></h4>
+</div>
+</div>
 
 
 <div class="row">
@@ -92,17 +97,7 @@ header: no
 <div class="row">
 <div class="small-12 medium-6 columns">
 <br>
-    <div id="clockdiv">
 
-
-
-
-
-      <h4><span class="days"></span> Days until Baja SAE Oregon</h4>
-
-
-
-    </div>
 
 
 </div>
