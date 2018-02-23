@@ -1,4 +1,4 @@
-var deadline = '2017-08-28';
+var deadline = '2018-05-29';
 
 function getTimeRemaining(endtime){
   var t = Date.parse(endtime) - Date.parse(new Date());
