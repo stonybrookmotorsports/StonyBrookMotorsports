@@ -53,9 +53,6 @@
 - name: 4PCB
   websiteURL: http://www.4pcb.com/
   logoURL: /images/sponsors/4pcb.png
-- name: Asana
-  websiteURL: http://www.asana.com/
-  logoURL: /images/sponsors/asana.png
 
 - name: Performance
   logoURL: /images/sponsors/performance.png
@@ -72,21 +69,10 @@
 - name: Astro
   logoURL: /images/sponsors/astro.png
   websiteURL: http://www.astroelectroplating.com/
-- name: Timken
-  logoURL: /images/sponsors/timken.png
-  websiteURL: http://www.timken.com/
 - name: Polaris
   logoURL: /images/sponsors/polaris.png
   websiteURL: http://www.polaris.com/en-us/home.aspx
-- name: Briggs
-  logoURL: /images/sponsors/briggs.png
-  websiteURL: http://www.briggsandstratton.com/us/en
-- name: Fox
-  logoURL: /images/sponsors/fox.png
-  websiteURL: http://www.ridefox.com/
-- name: VR3 Engineering
-  logoURL: /images/sponsors/vr3.jpg
-  websiteURL: http://vr3.ca/
+
 - name: Parfuse
   logoURL: /images/sponsors/parfuse.png
   websiteURL: http://parfuse.com/
