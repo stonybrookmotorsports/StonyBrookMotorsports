@@ -77,8 +77,12 @@
   year: Freshman
 - name: Christian Funes
   major: Mechanical Engineering
-  imageName: placeholder
+  imageName: ChristianFunes
   year: Freshman
+- name: Jun Han
+  major: Mechanical Engineering
+  imageName: placeholder
+  year: Junior
 - name: Daniel Khait
   major: Mechanical Engineering
   imageName: DanielKhait
@@ -95,6 +99,10 @@
   major: Mechanical Engineering
   imageName: Marco
   year: Sophomore
+- name: Joseph Maalouf
+  major: Mechanical Engineering
+  imageName: placeholder
+  year: Freshman
 - name: Christopher Matteo
   major: Mechanical Engineering
   imageName: ChristopherMatteo
@@ -119,7 +127,19 @@
   imageName: Daniel
   major: Mechanical Engineering
   year: Senior
+- name: Adhiraj Tomar
+  imageName: placeholder
+  major: Mechanical Engineering
+  year: Junior
 - name: Marcus Wentz
   major: Electrical Engineering
   imageName: MarcusWentz
   year: Junior
+- name: Zi Jing Wong
+  major: Mechanical Engineering
+  imageName: placeholder
+  year: Freshman
+- name: Christian Zoni
+  major: Mechanical Engineering
+  imageName: placeholder
+  year: freshman

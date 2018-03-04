@@ -1,3 +1,18 @@
+- year: '2018'
+  car: '22'
+  result: 'Baja SAE Oregon: May 29 - June 2'
+  photos:
+    - galleryTitle: Fabrication
+      galleryLink: https://photos.app.goo.gl/l4J2cZw5JTiHO1wm2
+    - galleryTitle: Involvement Fairs
+      galleryLink: https://photos.app.goo.gl/ZyHM22QscwVV9dgx1
+    - galleryTitle: New Member Competition
+      galleryLink: https://photos.app.goo.gl/1kx3Uum8jlDUTHFy2
+    - galleryTitle: CommUniversity Day
+      galleryLink: https://photos.app.goo.gl/Irc7K3B85dxkDEnx1
+    - galleryTitle: Wolfieland
+      galleryLink: https://photos.app.goo.gl/loICoDDZOKRZFqTY2
+
 - year: '2017'
   car: '15/125'
   result: '27th Overall in Kansas & 61st Overall in Illinois'
