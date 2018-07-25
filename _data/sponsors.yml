@@ -25,12 +25,7 @@
   logoURL: /images/sponsors/gkn.png
   websiteURL: http://www.gkn.com/
 
-- name: Kinemotive
-  logoURL: /images/sponsors/kinemotive.png
-  websiteURL: http://www.kinemotive.com/
-- name: Aurora
-  logoURL: /images/sponsors/aurora.png
-  websiteURL: http://www.aurorabearing.com/index.html
+
 - name: Base BKNY
   logoURL: /images/sponsors/base.png
   websiteURL: http://basebrooklyn.net/online/
@@ -54,25 +49,19 @@
   websiteURL: http://www.4pcb.com/
   logoURL: /images/sponsors/4pcb.png
 
-- name: Performance
-  logoURL: /images/sponsors/performance.png
-  websiteURL: http://performanceautosolutions.com/
+
 - name: 4XPro
   logoURL: /images/sponsors/4xpro.png
   websiteURL: http://www.4xpro.com/
 - name: Blackstone Laboratories
   logoURL: /images/sponsors/blackstone.png
   websiteURL: http://www.blackstone-labs.com/
-- name: Advanced Plastic Fabrications
-  logoURL: /images/sponsors/advancedplasticfabrications.png
-  websiteURL: http://www.adplasfab.com/
-- name: Astro
-  logoURL: /images/sponsors/astro.png
-  websiteURL: http://www.astroelectroplating.com/
-- name: Polaris
-  logoURL: /images/sponsors/polaris.png
-  websiteURL: http://www.polaris.com/en-us/home.aspx
 
-- name: Parfuse
-  logoURL: /images/sponsors/parfuse.png
-  websiteURL: http://parfuse.com/
+- name: Ar Jon Power Equipment
+  websiteURL: http://ar-jonope.com/
+- name: Larsen Autoworks
+  websiteURL: https://larsenautoworks.com/
+- name: Middle Country Automotive
+  websiteURL: http://www.middlecountryautomotive.com/
+- name: Monti's Auto Works
+- name: Dowling Brother's Autobody

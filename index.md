@@ -52,12 +52,13 @@ header: no
   </ul>
 </div>
 
+<!--
 <div class="panel">
 <div id="clockdiv" style="text-align: center;">
   <h4><span class="days"></span> Days until <a href="https://www.sae.org/attend/student-events/baja-sae-oregon/" target="_blank">Baja SAE Oregon</a></h4>
 </div>
 </div>
-
+-->
 
 <div class="row">
 
@@ -96,7 +97,14 @@ header: no
 
 <div class="row">
 <div class="small-12 medium-6 columns">
-<br>
+<h3>Resources</h3>
+
+<ul class="inline-list">
+<li><a href="{{site.baseurl}}/images/shophours.jpg" target="_blank">Shop Hours</a></li>
+<li><a href="{{site.baseurl}}/resources/forms/" target="_blank">Forms</a></li>
+<li><a href="http://bajasae.net/cdsweb/gen/DocumentResources.aspx" target="_blank">Rules</a></li>
+<li><a href="{{site.baseurl}}/resources/links/" target="_blank">Links</a></li>
+</ul>
 
 
 
@@ -104,12 +112,7 @@ header: no
 
 
 <div class="small-12 medium-6 columns">
-  <h3>Resources</h3>
-  <ul class="inline-list">
-  <li><a href="{{site.baseurl}}/team/forms/">Forms</a></li>
-  <li><a href="http://bajasae.net/cdsweb/gen/DocumentResources.aspx" target="_blank">2018 Rules</a></li>
-  <li><a href="{{site.baseurl}}/team/resources/">More</a></li>
-</ul>
+
 
 </div>
 </div>

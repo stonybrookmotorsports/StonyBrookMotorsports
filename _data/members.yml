@@ -1,149 +1,119 @@
 - name: Jenry Nieto Martinez
   imageName: Jenry
   position: President
-  subsystem: Suspension/Steering, Composites
-  major: Mechanical Engineering
-  year: Junior
-- name: Paul Li
-  imageName: Paul
-  position: Vice President
-  subsystem: Control Systems Leader
-  major: Mechanical Engineering
-  year: Junior
-- name: Luke Richardson
-  imageName: Luke
-  position: Secretary
-  subsystem: Powertrain
   major: Mechanical Engineering
   year: Senior
-- name: Cameron Contarino
-  imageName: Cameron
-  position: Treasurer
-  subsystem: Composites Leader
-  major: Mechanical Engineering
-  year: Sophomore
-- name: Billy Tunney
-  imageName: Billy
-  position: Design Leader
-  subsystem: Powertrain Leader
-  major: Mechanical Engineering
-  year: Senior
-- name: Gbenga Akindejoye
-  imageName: Gbenga
-  position: Fabrication Leader
-  subsystem: Suspension/Steering Leader
-  major: Mechanical Engineering
-  year: Senior
-- name: John Park
-  imageName: John
-  position: Testing Manager
-  subsystem: Chassis Leader
-  major: Mechanical Engineering
-  year: Junior
 - name: Mustafa Tastan
   major: Biology
   imageName: MustafaTastan
-  position: Machine Shop Manager
-  year: Junior
-- name: Devon Gaynes
-  imageName: Devon
-  position: Public Relations Specialist
-  major: Applied Mathematics and Statistics & Atmospheric and Oceanic Sciences
-  year: Junior
-- name: Brendan Zotto
-  imageName: Zotto
-  subsystem: Electronics Leader
-  major: Electrical Engineering
-  year: Junior
-- name: Maxime Breton
-  major: Physics
-  imageName: MaximeBreton
-  year: Sophomore
-- name: Olivia Chen
-  major: Chemical and Molecular Engineering
-  imageName: OliviaChen
-  year: Junior
-- name: Thomas Crimarco
-  major: Mechanical Engineering
-  imageName: ThomasCrimarco
-  year: Junior
-- name: Justin Elkin
-  major: Mechanical Engineering
-  imageName: JustinElkin
-  year: Freshman
-- name: Noah Halsard
-  major: Biology
-  imageName: NoahHalsard
-  year: Freshman
-- name: Christian Funes
-  major: Mechanical Engineering
-  imageName: ChristianFunes
-  year: Freshman
-- name: Jun Han
-  major: Mechanical Engineering
-  imageName: placeholder
-  year: Junior
-- name: Daniel Khait
-  major: Mechanical Engineering
-  imageName: DanielKhait
-  year: Freshman
-- name: George Lippman
-  major: History
-  imageName: placeholder
-  year: Freshman
-- name: Felix Liu
-  major: Mechanical Engineering
-  imageName: FelixLiu
-  year: Freshman
-- name: Marco Losada
-  major: Mechanical Engineering
-  imageName: Marco
-  year: Sophomore
-- name: Joseph Maalouf
-  major: Mechanical Engineering
-  imageName: placeholder
-  year: Freshman
-- name: Christopher Matteo
-  major: Mechanical Engineering
-  imageName: ChristopherMatteo
-  year: Freshman
-- name: Edward O'Connor
-  major: Mechanical Engineering
-  imageName: EdwardOConnor
-  year: Freshman
-- name: Min Paing
-  major: Mechanical Engineering
-  imageName: placeholder
-  year: Sophomore
-- name: Christopher Quilla
-  major: Mechanical Engineering
-  imageName: ChristopherQuilla
-  year: Sophomore
-- name: Thomas Reilly
-  major: Mechanical Engineering
-  imageName: ThomasReilly
-  year: Freshman
+  position: Vice President
+  year: Senior
 - name: Christopher Sherling
   major: Mechanical Engineering
   imageName: ChristopherSherling
-  year: Freshman
-- name: Daniel Su
-  imageName: Daniel
+  position: Secretary
+  year: Sophomore
+- name: Christopher Matteo
+  major: Mechanical Engineering
+  imageName: ChristopherMatteo
+  position: Treasurer
+  year: Sophomore
+- name: Paul Li
+  imageName: Paul
+  position: Design Leader
   major: Mechanical Engineering
   year: Senior
+- name: Marco Losada
+  major: Mechanical Engineering
+  imageName: Marco
+  position: Machine Shop Manager
+  year: Junior
 - name: Adhiraj Tomar
   imageName: placeholder
+  position: Public Relations Specialist
   major: Mechanical Engineering
   year: Junior
+
+- name: Cameron Contarino
+  imageName: CameronContarino
+  major: Mechanical Engineering
+  year: Junior
+
+
+
+- name: Devon Gaynes
+  imageName: Devon
+  major: Applied Mathematics and Statistics & Atmospheric and Oceanic Sciences
+  year: Senior
+- name: Brendan Zotto
+  imageName: Zotto
+  major: Electrical Engineering
+  year: Senior
+- name: Maxime Breton
+  major: Physics
+  imageName: MaximeBreton
+  year: Junior
+- name: Olivia Chen
+  major: Chemical and Molecular Engineering
+  imageName: OliviaChen
+  year: Senior
+- name: Thomas Crimarco
+  major: Mechanical Engineering
+  imageName: ThomasCrimarco
+  year: Senior
+- name: Noah Halsard
+  major: Biology
+  imageName: NoahHalsard
+  year: Sophomore
+- name: Christian Funes
+  major: Mechanical Engineering
+  imageName: ChristianFunes
+  year: Sophomore
+- name: Jun Han
+  major: Mechanical Engineering
+  imageName: placeholder
+  year: Senior
+- name: Daniel Khait
+  major: Mechanical Engineering
+  imageName: DanielKhait
+  year: Sophomore
+- name: George Lippman
+  major: History
+  imageName: placeholder
+  year: Sophomore
+- name: Felix Liu
+  major: Mechanical Engineering
+  imageName: FelixLiu
+  year: Sophomore
+
+- name: Joseph Maalouf
+  major: Mechanical Engineering
+  imageName: placeholder
+  year: Sophomore
+
+- name: Edward O'Connor
+  major: Mechanical Engineering
+  imageName: EdwardOConnor
+  year: Sophomore
+- name: John Park
+  imageName: John
+  major: Mechanical Engineering
+  year: Senior
+- name: Thomas Reilly
+  major: Mechanical Engineering
+  imageName: ThomasReilly
+  year: Sophomore
+
+
 - name: Marcus Wentz
   major: Electrical Engineering
   imageName: MarcusWentz
-  year: Junior
+  year: Senior
 - name: Zi Jing Wong
   major: Mechanical Engineering
-  imageName: placeholder
-  year: Freshman
+  imageName: ZijingWong
+  year: Sophomore
 - name: Christian Zoni
   major: Mechanical Engineering
   imageName: placeholder
-  year: freshman
+  year: Sophomore
